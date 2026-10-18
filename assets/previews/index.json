@@ -28,5 +28,25 @@
   "bytes": 743389,
   "file": "LuCheremisina__marketing-skills.jpg",
   "still": "LuCheremisina__marketing-skills.jpg"
+ },
+ "NicoSKOOL/ai-ranking-scroll-seo": {
+  "repo": "NicoSKOOL/ai-ranking-scroll-seo",
+  "url": "https://raw.githubusercontent.com/NicoSKOOL/ai-ranking-scroll-seo/HEAD/media/arkansas-flight.webp",
+  "alt": "Three flight routes from Buenos Aires, Santiago and São Paulo converge on Arkans",
+  "score": -0.05,
+  "type": "image/webp",
+  "bytes": 21594,
+  "file": "NicoSKOOL__ai-ranking-scroll-seo.jpg",
+  "still": "NicoSKOOL__ai-ranking-scroll-seo.jpg"
+ },
+ "avalonreset/legends-geogrid": {
+  "repo": "avalonreset/legends-geogrid",
+  "url": "https://raw.githubusercontent.com/avalonreset/legends-geogrid/HEAD/assets/why-have-we-never-met-before.png",
+  "alt": "why have we never met before?: watch on YouTube",
+  "score": -0.2,
+  "type": "image/png",
+  "bytes": 8070872,
+  "file": "avalonreset__legends-geogrid.jpg",
+  "still": "avalonreset__legends-geogrid.jpg"
  }
 }
