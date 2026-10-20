@@ -9,6 +9,16 @@
   "file": "AgriciDaniel__jev-seo.jpg",
   "still": "AgriciDaniel__jev-seo.jpg"
  },
+ "Fangx-AI/geo-doctor": {
+  "repo": "Fangx-AI/geo-doctor",
+  "url": "https://raw.githubusercontent.com/Fangx-AI/geo-doctor/HEAD/assets/geo-doctor-demo.gif",
+  "alt": "演示：在 AI 助手里说「帮我做 GEO」，GEO 医生先体检官网（60 分，AI 爬虫读不到正文），再给出 10 道采样题；贴回 20 条豆包回答后，列出竞品",
+  "score": 4.75,
+  "type": "image/gif",
+  "bytes": 411136,
+  "file": "Fangx-AI__geo-doctor.gif",
+  "still": "Fangx-AI__geo-doctor.jpg"
+ },
  "IamRamgarhia/All-In-One-Free-SEO-Tool": {
   "repo": "IamRamgarhia/All-In-One-Free-SEO-Tool",
   "url": "https://raw.githubusercontent.com/IamRamgarhia/All-In-One-Free-SEO-Tool/HEAD/docs/screenshots/05-ai-blog-writer.png",
@@ -48,5 +58,15 @@
   "bytes": 8070872,
   "file": "avalonreset__legends-geogrid.jpg",
   "still": "avalonreset__legends-geogrid.jpg"
+ },
+ "duckduckdeploy/openseo": {
+  "repo": "duckduckdeploy/openseo",
+  "url": "https://raw.githubusercontent.com/duckduckdeploy/openseo/HEAD/apps/web/public/screens/serp-checker-table.webp",
+  "alt": "SERP checker with each result",
+  "score": 1.4,
+  "type": "image/webp",
+  "bytes": 242400,
+  "file": "duckduckdeploy__openseo.jpg",
+  "still": "duckduckdeploy__openseo.jpg"
  }
 }
