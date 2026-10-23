@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22",
+ "generated": "2026-10-23",
  "source": "https://agentskillshub.top/best/seo-tools/",
  "kinds": [
   {
@@ -55,7 +55,7 @@
   {
    "repo_full_name": "AgriciDaniel/claude-seo",
    "path": null,
-   "stars": 19663,
+   "stars": 19798,
    "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
    "kind": "suite",
    "security_grade": "safe",
@@ -65,7 +65,7 @@
   {
    "repo_full_name": "Ryze-AI-Adgent/open-seo-mcp-skills",
    "path": null,
-   "stars": 6399,
+   "stars": 6699,
    "description": "Free SEO MCP server + open-source SEO and GEO skills for Claude: keyword research, rank tracking, audits, backlinks, AI visibility on your real GSC/GA4/ads data. claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp",
    "kind": "suite",
    "security_grade": "safe",
@@ -75,7 +75,7 @@
   {
    "repo_full_name": "AgriciDaniel/claude-blog",
    "path": null,
-   "stars": 2469,
+   "stars": 2483,
    "description": "Claude Code blog skill suite: 30 sub-skills, 5 agents, 5-gate v1.9.0 Blog Delivery Contract, dual-optimized for Google rankings and AI citations. Active development at AI-Marketing-Hub/claude-blog (AI Marketing Hub Pro community); public releases ship here.",
    "kind": "suite",
    "security_grade": "safe",
@@ -85,7 +85,7 @@
   {
    "repo_full_name": "leopard627/fire-your-seo-agency",
    "path": null,
-   "stars": 896,
+   "stars": 951,
    "description": "Fire your SEO·GEO agency 🔥 A Claude Code skill that audits and optimizes SEO·AEO·GEO·LLMO·NEO(Naver) by itself — 월 50~350만 원짜리 'AI 검색 최적화' 대행, AI 에이전트가 대체합니다",
    "kind": "suite",
    "security_grade": "safe",
@@ -95,7 +95,7 @@
   {
    "repo_full_name": "AgriciDaniel/chatgpt-seo",
    "path": null,
-   "stars": 853,
+   "stars": 854,
    "description": "Turn a page, draft, or SEO export into a sourced fix plan inside ChatGPT.",
    "kind": "suite",
    "security_grade": "safe",
@@ -105,7 +105,7 @@
   {
    "repo_full_name": "Illyism/seo-skills",
    "path": null,
-   "stars": 569,
+   "stars": 590,
    "description": "SEO skills for Claude Code, Cursor and Codex: SEO autopilot, title tags, blog refreshes, backlinks, customer journeys, video transcripts and copywriting.",
    "kind": "suite",
    "security_grade": "safe",
@@ -113,20 +113,20 @@
    "license": null
   },
   {
-   "repo_full_name": "ViryaZheng/recomby-geo",
+   "repo_full_name": "joeseesun/qiaomu-seo",
    "path": null,
-   "stars": 458,
-   "description": "GEO 领域 AI 员工开源方案 · Open-source GEO AI-employee solution (MIT). GEO Skills package + curated lists of agents and office CLIs that make up the AI-employee stack.",
+   "stars": 459,
+   "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
    "kind": "suite",
    "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
   {
-   "repo_full_name": "joeseesun/qiaomu-seo",
+   "repo_full_name": "ViryaZheng/recomby-geo",
    "path": null,
    "stars": 458,
-   "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
+   "description": "GEO 领域 AI 员工开源方案 · Open-source GEO AI-employee solution (MIT). GEO Skills package + curated lists of agents and office CLIs that make up the AI-employee stack.",
    "kind": "suite",
    "security_grade": "safe",
    "language": "Python",
@@ -173,6 +173,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "beyondtahir/beyondseo",
+   "path": null,
+   "stars": 204,
+   "description": "Your complete SEO house: native crawling, SEO/AEO/GEO, content, competitors and reputation. Includes 206 publishing sources with DR context and tailored backlink plans. No API keys required by the native engine.",
+   "kind": "suite",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "Bomx/distribb-skill",
    "path": null,
    "stars": 201,
@@ -183,19 +193,9 @@
    "license": null
   },
   {
-   "repo_full_name": "beyondtahir/beyondseo",
-   "path": null,
-   "stars": 192,
-   "description": "Your complete SEO house: native crawling, SEO/AEO/GEO, content, competitors and reputation. Includes 206 publishing sources with DR context and tailored backlink plans. No API keys required by the native engine.",
-   "kind": "suite",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "akseolabs-seo/seo-coach",
    "path": null,
-   "stars": 185,
+   "stars": 187,
    "description": "An open-source AI SEO coach for beginners: practice on your own website, make evidence-based decisions, and track verifiable progress without expensive tools.",
    "kind": "suite",
    "security_grade": "safe",
@@ -205,7 +205,7 @@
   {
    "repo_full_name": "seranking/seo-skills",
    "path": null,
-   "stars": 182,
+   "stars": 184,
    "description": "Claude SEO Skills — production Claude Agent Skills for the SE Ranking MCP server. Content briefs, AI Search share of voice, audits, backlink gaps, keyword clusters, schema, sitemap, GEO, and more.",
    "kind": "suite",
    "security_grade": "safe",
@@ -335,7 +335,7 @@
   {
    "repo_full_name": "IamRamgarhia/All-In-One-Free-SEO-Tool",
    "path": null,
-   "stars": 76,
+   "stars": 79,
    "description": "Free SEO tool — open-source, self-hosted alternative to Ahrefs, Semrush & Moz. 99 tools: site audits, rank tracking, keyword research, AI search visibility (ChatGPT, Perplexity, Gemini, AI Overviews), content briefs, backlinks, local SEO, white-label reports, and an agent that applies fixes. No paid APIs required. MIT.",
    "kind": "suite",
    "security_grade": "safe",
@@ -673,6 +673,16 @@
    "license": "NOASSERTION"
   },
   {
+   "repo_full_name": "nexscope-ai/ecommerce-seo-geo-skills",
+   "path": null,
+   "stars": 6,
+   "description": "Portable skills for ecommerce SEO, GEO readiness, structured data, product-listing optimization, keyword gaps, and buyer-intent content.",
+   "kind": "suite",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "NOASSERTION"
+  },
+  {
    "repo_full_name": "shalintripathi/organic-os",
    "path": null,
    "stars": 6,
@@ -687,16 +697,6 @@
    "path": null,
    "stars": 6,
    "description": "AI-native SEO platform for OpenCode: deterministic rule engine, SEO linting with CI gates, a fix engine, citation scoring, drift monitoring, and client-ready chart reports. Powered by DataForSEO; Google APIs optional.",
-   "kind": "suite",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "NOASSERTION"
-  },
-  {
-   "repo_full_name": "nexscope-ai/ecommerce-seo-geo-skills",
-   "path": null,
-   "stars": 5,
-   "description": "Portable skills for ecommerce SEO, GEO readiness, structured data, product-listing optimization, keyword gaps, and buyer-intent content.",
    "kind": "suite",
    "security_grade": "safe",
    "language": "Python",
@@ -725,7 +725,7 @@
   {
    "repo_full_name": "Bhanunamikaze/Agentic-SEO-Skill",
    "path": null,
-   "stars": 981,
+   "stars": 984,
    "description": "An LLM-first SEO analysis skill for Antigravity, Codex, Claude with 16 specialized sub-skills, 10 specialist agents, and 88 optional utility scripts used as evidence collectors.",
    "kind": "audit",
    "security_grade": "safe",
@@ -735,7 +735,7 @@
   {
    "repo_full_name": "tigerless-labs/seo-ops",
    "path": null,
-   "stars": 856,
+   "stars": 876,
    "description": "SEO foundation checks as an Agent Skill: give it a URL, get a crawler's-eye pass/fail report with evidence. 26 structural checks, zero LLM, deterministic.",
    "kind": "audit",
    "security_grade": "safe",
@@ -745,7 +745,7 @@
   {
    "repo_full_name": "JeffLi1993/seo-audit-skill",
    "path": null,
-   "stars": 770,
+   "stars": 771,
    "description": "SEO agent skill for OpenClaw,Claude Code, and AI agents. Generate beginner SEO audits and advanced technical SEO reports for any page.",
    "kind": "audit",
    "security_grade": "safe",
@@ -755,7 +755,7 @@
   {
    "repo_full_name": "AgriciDaniel/jev-seo",
    "path": null,
-   "stars": 699,
+   "stars": 706,
    "description": "Live SEO audit for any website from one homepage URL, judged by Jev. PDF, XLSX and Markdown reports.",
    "kind": "audit",
    "security_grade": "safe",
@@ -765,7 +765,7 @@
   {
    "repo_full_name": "seo-skills/seo-audit-skill",
    "path": null,
-   "stars": 642,
+   "stars": 645,
    "description": "A comprehensive SEO audit command-line tool with 332 audit rules across 20 categories. Analyze any website for SEO best practices, Core Web Vitals, security headers, structured data, accessibility, and more.",
    "kind": "audit",
    "security_grade": "safe",
@@ -775,7 +775,7 @@
   {
    "repo_full_name": "iannuttall/seo",
    "path": null,
-   "stars": 589,
+   "stars": 590,
    "description": "SEO for agent-native teams. Your agent gets your real Search Console, Google Analytics, Bing and crawl data through an MCP server and CLI, so it stops guessing.",
    "kind": "audit",
    "security_grade": "safe",
@@ -795,7 +795,7 @@
   {
    "repo_full_name": "squirrelscan/squirrelscan",
    "path": null,
-   "stars": 292,
+   "stars": 294,
    "description": "The website QA tool for your coding agent. 300+ audit rules across SEO, performance, security, accessibility and agent experience.",
    "kind": "audit",
    "security_grade": "safe",
@@ -805,7 +805,7 @@
   {
    "repo_full_name": "SNLabat/SEO-GEO-AEO-Skill",
    "path": null,
-   "stars": 257,
+   "stars": 258,
    "description": "SEO/GEO/AEO Audit Skill for Claude",
    "kind": "audit",
    "security_grade": "safe",
@@ -815,7 +815,7 @@
   {
    "repo_full_name": "aleksandr-alhoff/seo-landing",
    "path": null,
-   "stars": 173,
+   "stars": 179,
    "description": "SEO Landing: Give your AI coding agent the capabilities of a senior Technical SEO engineer.  An agent skill for building high-performance, technically optimized SEO landing pages. Turn an AI coding agent into a technical SEO specialist.  Build and improve landing pages with: • 🚀 100/100 Google PageSpeed target • ⚡ Core Web Vitals optimization ",
    "kind": "audit",
    "security_grade": "safe",
@@ -983,6 +983,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "spcaeo/toadstone",
+   "path": null,
+   "stars": 7,
+   "description": "A self-hosted alternative to Screaming Frog: your crawl, your machine, no per-URL pricing and no seats. 222 SEO checks — 180 of them proven to fire against a site built to be wrong. JS rendering, crawl diffing with stable issue ids, axe-core accessibility, server logs, Search Console, an HTTP API and an MCP server.",
+   "kind": "audit",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "NOASSERTION"
+  },
+  {
    "repo_full_name": "Mehmoodqureshi/seo-tools-mcp",
    "path": null,
    "stars": 6,
@@ -1045,7 +1055,7 @@
   {
    "repo_full_name": "zhuyansen/new-term-radar",
    "path": null,
-   "stars": 1667,
+   "stars": 1744,
    "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
    "kind": "research",
    "security_grade": "safe",
@@ -1065,8 +1075,8 @@
   {
    "repo_full_name": "avalonreset/legends-geogrid",
    "path": null,
-   "stars": 27,
-   "description": "Open-source google maps rank checker: business-first SEO research, evidence-backed keyword studies, street maps and actionable reports at DataForSEO cost.",
+   "stars": 30,
+   "description": "legends-geogrid: Agent-first open-source Google Maps rank checker, local rank tracker & GBP audit studio. Circular geo-grid maps & 18-page PDF local SEO reports at API cost",
    "kind": "research",
    "security_grade": "safe",
    "language": "Python",
@@ -1155,7 +1165,7 @@
   {
    "repo_full_name": "every-app/open-seo",
    "path": null,
-   "stars": 24516,
+   "stars": 24633,
    "description": "Open source alternative to Semrush and Ahrefs",
    "kind": "data_mcp",
    "security_grade": "safe",
@@ -1165,7 +1175,7 @@
   {
    "repo_full_name": "AminForou/mcp-gsc",
    "path": null,
-   "stars": 2014,
+   "stars": 2016,
    "description": "Google Search Console Insights with Claude AI for SEOs",
    "kind": "data_mcp",
    "security_grade": "safe",
@@ -1175,7 +1185,7 @@
   {
    "repo_full_name": "crawlseo/crawlseo",
    "path": null,
-   "stars": 641,
+   "stars": 646,
    "description": "Open-source SEO monitoring. GSC + Site Crawler + Core Web Vitals in one dashboard.",
    "kind": "data_mcp",
    "security_grade": "safe",
@@ -1185,7 +1195,7 @@
   {
    "repo_full_name": "springvoiceswell/semrush-ai-tool",
    "path": null,
-   "stars": 570,
+   "stars": 611,
    "description": "Semrush SEO AI-powered analysis tool MCP server & CLI for keyword research, domain analytics, backlink analysis",
    "kind": "data_mcp",
    "security_grade": "safe",
@@ -1255,7 +1265,7 @@
   {
    "repo_full_name": "Suganthan-Mohanadasan/Suganthans-GSC-MCP",
    "path": null,
-   "stars": 163,
+   "stars": 164,
    "description": "An MCP server for Google Search Console. Ask Claude questions about your search data and get real answers. 29 tools: quick wins, cannibalisation, content decay, CTR benchmarking, image SEO, AI conversation queries, alerting, indexing API, and more.",
    "kind": "data_mcp",
    "security_grade": "safe",
@@ -1285,7 +1295,7 @@
   {
    "repo_full_name": "houtini-ai/seo-audit",
    "path": null,
-   "stars": 83,
+   "stars": 85,
    "description": "Free SEO Audit MCP server for Claude - captures and stores all the raw data you need for a complete technical SEO audit. Google Search Console + a first-party crawl + DataForSEO + Majestic SEO merged into one prioritised audit.",
    "kind": "data_mcp",
    "security_grade": "safe",
@@ -1335,7 +1345,7 @@
   {
    "repo_full_name": "mshahiddigital/screamingfrog-audit-mcp",
    "path": null,
-   "stars": 22,
+   "stars": 23,
    "description": "Drive the Screaming Frog SEO Spider from Claude, Cursor, or any MCP client: headless crawls, a ranked issue register, derived analysis and a shareable report. Works on the free tier.",
    "kind": "data_mcp",
    "security_grade": "safe",
@@ -1343,20 +1353,20 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "itsjwill/seoctopus",
+   "repo_full_name": "duckduckdeploy/openseo",
    "path": null,
-   "stars": 12,
-   "description": "8-armed SEO intelligence - MCP server + CLI with 23 tools for rank tracking, Google Analytics, site auditing, keyword research, competitive analysis, and performance monitoring",
+   "stars": 13,
+   "description": "Open Source Ahrefs & SEMrush",
    "kind": "data_mcp",
    "security_grade": "safe",
    "language": "TypeScript",
    "license": "MIT"
   },
   {
-   "repo_full_name": "duckduckdeploy/openseo",
+   "repo_full_name": "itsjwill/seoctopus",
    "path": null,
-   "stars": 10,
-   "description": "Open Source Ahrefs & SEMrush",
+   "stars": 12,
+   "description": "8-armed SEO intelligence - MCP server + CLI with 23 tools for rank tracking, Google Analytics, site auditing, keyword research, competitive analysis, and performance monitoring",
    "kind": "data_mcp",
    "security_grade": "safe",
    "language": "TypeScript",
@@ -1455,7 +1465,7 @@
   {
    "repo_full_name": "zubair-trabzada/geo-seo-claude",
    "path": null,
-   "stars": 11174,
+   "stars": 11202,
    "description": "GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and PDF reports.  If you want learn how to sell this to real businesses, check out the skool community",
    "kind": "geo",
    "security_grade": "safe",
@@ -1465,7 +1475,7 @@
   {
    "repo_full_name": "onvoyage-ai/gtm-engineer-skills",
    "path": null,
-   "stars": 1327,
+   "stars": 1330,
    "description": "Claude Code skill for improving website AEO (AI Engine Optimization) and GEO (Generative Engine Optimization) scores — 16 foundational checks, 6 intelligence dimensions, framework-specific fixes",
    "kind": "geo",
    "security_grade": "safe",
@@ -1475,7 +1485,7 @@
   {
    "repo_full_name": "Auriti-Labs/geo-optimizer-skill",
    "path": null,
-   "stars": 1147,
+   "stars": 1156,
    "description": "Open-source Answer Engine Optimization (AEO) & Generative Engine Optimization (GEO) toolkit — audit, optimize & track whether ChatGPT, Perplexity, Gemini & Google AI Overviews cite your site. AI SEO / LLM SEO. CLI, Python, MCP, Astro.",
    "kind": "geo",
    "security_grade": "safe",
@@ -1485,7 +1495,7 @@
   {
    "repo_full_name": "yaojingang/yao-geo-skills",
    "path": null,
-   "stars": 894,
+   "stars": 895,
    "description": "An open-source Skill collection for GEO content and workflows, continuously updated.",
    "kind": "geo",
    "security_grade": "safe",
@@ -1505,7 +1515,7 @@
   {
    "repo_full_name": "elmohq/elmo",
    "path": null,
-   "stars": 481,
+   "stars": 485,
    "description": "Open-source Answer Engine Optimization (AEO) and Generative Engine Optimization (GEO) platform. Track how ChatGPT, Claude, Perplexity, Gemini, Copilot, Grok, and Google AI Overviews mention and cite your brand in AI search. MIT-licensed, self-hostable, every metric auditable in code.",
    "kind": "geo",
    "security_grade": "safe",
@@ -1525,7 +1535,7 @@
   {
    "repo_full_name": "ALLENLION35/geo-first-principles",
    "path": null,
-   "stars": 302,
+   "stars": 303,
    "description": "GEO第一性原理：面向企业负责人的开源 GEO 分析 Skill。从行业竞争、客户需求与成交逻辑出发，判断是否适合做 GEO、价值在哪里、怎样投入，并提供重点场景、五题实测指引与行动建议。支持 Agent Skills 格式。",
    "kind": "geo",
    "security_grade": "safe",
@@ -1535,7 +1545,7 @@
   {
    "repo_full_name": "cxcscmu/AutoGEO",
    "path": null,
-   "stars": 231,
+   "stars": 232,
    "description": "[ICLR'26] AutoGEO: a Generative Engine Optimization framework to automatically learn generative engine preferences, and rewrite web contents for more traction.",
    "kind": "geo",
    "security_grade": "safe",
@@ -1545,7 +1555,7 @@
   {
    "repo_full_name": "limelit-co/open",
    "path": null,
-   "stars": 218,
+   "stars": 219,
    "description": "Self-hosted AI visibility tracking (AEO / GEO / LLMO). Track how ChatGPT, Claude, Perplexity, Gemini and Google AI Overviews mention and cite your brand. One Go binary, SQLite, MCP-first, bring your own keys.",
    "kind": "geo",
    "security_grade": "safe",
@@ -1575,7 +1585,7 @@
   {
    "repo_full_name": "Canonry/canonry",
    "path": null,
-   "stars": 190,
+   "stars": 193,
    "description": "Agent-first AI SEO (AEO/GEO) operating platform",
    "kind": "geo",
    "security_grade": "safe",
@@ -1585,7 +1595,7 @@
   {
    "repo_full_name": "ansvisor/ansvisor",
    "path": null,
-   "stars": 155,
+   "stars": 158,
    "description": "Open-source AI Search Intelligence Platform — track, analyze, and improve AI visibility, citations, prompts, competitors, and content opportunities across ChatGPT, Claude, Gemini, Google AI Overviews, Google AI Mode, Perplexity, Grok, and Microsoft Copilot.",
    "kind": "geo",
    "security_grade": "safe",
@@ -1605,7 +1615,7 @@
   {
    "repo_full_name": "Infrasity-Labs/dev-gtm-claude-skills",
    "path": null,
-   "stars": 142,
+   "stars": 143,
    "description": "Open-source Claude skills for GEO, AI discoverability, and developer GTM workflows. Built for developer-focused companies that want their documentation to be found, parsed, and cited by AI systems.",
    "kind": "geo",
    "security_grade": "safe",
@@ -1665,7 +1675,7 @@
   {
    "repo_full_name": "Hainrixz/claude-seo-ai",
    "path": null,
-   "stars": 78,
+   "stars": 79,
    "description": "The SEO + AI-search (GEO/AEO) optimization toolkit for Claude Code — two-score audit + opt-in fixer. Built for 2026-2027.",
    "kind": "geo",
    "security_grade": "safe",
@@ -1685,7 +1695,7 @@
   {
    "repo_full_name": "akii-technologies-ltd/akii-seo-ai-search-optimizer",
    "path": null,
-   "stars": 76,
+   "stars": 77,
    "description": "Free MIT-licensed Claude Code plugin for SEO, AEO and GEO. Audit websites, plan content, generate schema and check links. Includes 12 skills, 5 agents and 3 commands.",
    "kind": "geo",
    "security_grade": "safe",
@@ -1743,20 +1753,20 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "followanton/sleepwalker",
+   "repo_full_name": "Fangx-AI/geo-doctor",
    "path": null,
-   "stars": 25,
-   "description": "Use Sleepwalker to access AI visibility data (prompts, answers, citations) and Content Intelligence insights (trends, opportunities). Available via MCP, API, CLI and Sleepwalker App. ",
+   "stars": 28,
+   "description": "GEO 医生：一句话装进 AI 助手，查清豆包、DeepSeek、ChatGPT、Claude 为什么不推荐你，改资料、写内容、再复查。开源中英双语 GEO（生成式引擎优化）skill。",
    "kind": "geo",
    "security_grade": "safe",
    "language": "JavaScript",
    "license": "MIT"
   },
   {
-   "repo_full_name": "Fangx-AI/geo-doctor",
+   "repo_full_name": "followanton/sleepwalker",
    "path": null,
-   "stars": 22,
-   "description": "GEO 医生：一句话装进 AI 助手，查清豆包、DeepSeek、ChatGPT、Claude 为什么不推荐你，改资料、写内容、再复查。开源中英双语 GEO（生成式引擎优化）skill。",
+   "stars": 25,
+   "description": "Use Sleepwalker to access AI visibility data (prompts, answers, citations) and Content Intelligence insights (trends, opportunities). Available via MCP, API, CLI and Sleepwalker App. ",
    "kind": "geo",
    "security_grade": "safe",
    "language": "JavaScript",
@@ -1925,7 +1935,7 @@
   {
    "repo_full_name": "TheCraigHewitt/seomachine",
    "path": null,
-   "stars": 7532,
+   "stars": 7536,
    "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
    "kind": "content",
    "security_grade": "safe",
@@ -1935,7 +1945,7 @@
   {
    "repo_full_name": "gbessoni/seobuild-onpage",
    "path": null,
-   "stars": 259,
+   "stars": 260,
    "description": "SEOBuild Onpage - The first AI agent that writes pages Google ranks AND LLMs cite. One command in, ranking page out. Built on DeerFlow, powered by 2026 SEO + GEO strategies tested / working. Forensic competitive analysis, 500-token chunk architecture, entity consensus, verification tags. BYOK GSC, DataforSEO. Works w/ OpenClaw, Claude Code, Codex",
    "kind": "content",
    "security_grade": "safe",
@@ -2145,7 +2155,7 @@
   {
    "repo_full_name": "flaqai/backlink_skills",
    "path": null,
-   "stars": 793,
+   "stars": 795,
    "description": "Awesome skills for submitting url to free websites. Get more backlinks for your website to get more traffic.",
    "kind": "links",
    "security_grade": "safe",
@@ -2155,7 +2165,7 @@
   {
    "repo_full_name": "s87343472/backlink-pilot",
    "path": null,
-   "stars": 374,
+   "stars": 376,
    "description": "Automated backlink submission toolkit for indie hackers — submit your product to directory sites, awesome-lists, and search engines with one command",
    "kind": "links",
    "security_grade": "safe",
@@ -2165,7 +2175,7 @@
   {
    "repo_full_name": "Bomx/qwoted-seo-backlinks-skill",
    "path": null,
-   "stars": 148,
+   "stars": 149,
    "description": "Claude Code skill: find PR/backlink opportunities on Qwoted, build a sourced statistics page as a linkable asset, and pitch journalists — all from your AI agent.",
    "kind": "links",
    "security_grade": "safe",
@@ -2175,7 +2185,7 @@
   {
    "repo_full_name": "zhuyansen/backlink-guard",
    "path": null,
-   "stars": 9,
+   "stars": 17,
    "description": "Check a link source before you submit to it, verify the listing, and audit your own backlinks for link-spam patterns. A CLI and an agent skill.",
    "kind": "links",
    "security_grade": "safe",
@@ -2195,7 +2205,7 @@
   {
    "repo_full_name": "coreyhaines31/marketingskills",
    "path": null,
-   "stars": 55945,
+   "stars": 56179,
    "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
    "kind": "marketing",
    "security_grade": "safe",
@@ -2205,7 +2215,7 @@
   {
    "repo_full_name": "irinabuht12-oss/marketing-skills",
    "path": null,
-   "stars": 5231,
+   "stars": 5410,
    "description": "Claude skills for marketing: 49 free marketing skills for Claude Code and claude.ai (Google Ads, Meta Ads, SEO, AI visibility) + the Ryze Google Ads MCP / Meta Ads MCP: claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp",
    "kind": "marketing",
    "security_grade": "safe",
@@ -2215,7 +2225,7 @@
   {
    "repo_full_name": "nowork-studio/notfair-plugin",
    "path": null,
-   "stars": 4037,
+   "stars": 4046,
    "description": "Open-source SEO, GEO, and marketing skills for AI agents.",
    "kind": "marketing",
    "security_grade": "safe",
@@ -2225,7 +2235,7 @@
   {
    "repo_full_name": "aaron-he-zhu/aaron-marketing-skills",
    "path": null,
-   "stars": 3002,
+   "stars": 3009,
    "description": "120 marketing skills as an AI marketing staff — plugin, portable skills, or an 8-bot team across 7 disciplines (narrative, SEO/GEO, social, email, paid, influencer, launch) on one contract, with 8 auditor gates: TALE · CORE-EEAT · CITE · ECHO · SEND · ROAS · STAR · RAMP.",
    "kind": "marketing",
    "security_grade": "safe",
@@ -2235,7 +2245,7 @@
   {
    "repo_full_name": "zubair-trabzada/ai-marketing-claude",
    "path": null,
-   "stars": 2782,
+   "stars": 2789,
    "description": "AI Marketing Suite for Claude Code. 15 marketing skills with parallel subagents — audit any website, generate copy, email sequences, ad campaigns, content calendars, competitive intelligence, and client-ready PDF reports.",
    "kind": "marketing",
    "security_grade": "safe",
@@ -2245,7 +2255,7 @@
   {
    "repo_full_name": "tsingyuai/growth-lab",
    "path": null,
-   "stars": 1969,
+   "stars": 1971,
    "description": "An end-to-end growth tool that understands the product, fetch the data it needs, researches the market, executes campaigns, and reviews results to improve the next round of growth. 从代码到市场的开源端到端增长工具。理解产品、接入信息渠道、研究市场、执行增长行动，并基于真实数据自我改进。",
    "kind": "marketing",
    "security_grade": "safe",
@@ -2285,7 +2295,7 @@
   {
    "repo_full_name": "LeoYeAI/openclaw-marketing-skills",
    "path": null,
-   "stars": 1048,
+   "stars": 1049,
    "description": "33 battle-tested marketing skills for OpenClaw agents — Powered by MyClaw.ai",
    "kind": "marketing",
    "security_grade": "safe",
@@ -2295,7 +2305,7 @@
   {
    "repo_full_name": "rampstackco/claude-skills",
    "path": null,
-   "stars": 986,
+   "stars": 991,
    "description": "Stack-agnostic Claude Skills covering the full website lifecycle: brand, design, content, SEO, dev, ops, growth, and research. Build, ship, audit, optimize.",
    "kind": "marketing",
    "security_grade": "safe",
@@ -2305,7 +2315,7 @@
   {
    "repo_full_name": "indranilbanerjee/digital-marketing-pro",
    "path": null,
-   "stars": 903,
+   "stars": 906,
    "description": "An open-source AI based digital marketing operating system for strategy, SEO, AEO/GEO, paid media, content, CRM, and analytics - grounded in brand context, human approval, and verifiable outputs. Best for Brands, Agencies and one person campanies.",
    "kind": "marketing",
    "security_grade": "safe",
@@ -2315,7 +2325,7 @@
   {
    "repo_full_name": "OpenClaudia/openclaudia-skills",
    "path": null,
-   "stars": 719,
+   "stars": 722,
    "description": "77 open-source marketing skills for Claude Code, Codex, and other AI coding agents. SEO, content, email, ads, analytics, and growth.",
    "kind": "marketing",
    "security_grade": "safe",
@@ -2335,7 +2345,7 @@
   {
    "repo_full_name": "unifapi-agent/agents",
    "path": null,
-   "stars": 597,
+   "stars": 598,
    "description": "Open-source marketing agents for Claude, ChatGPT, Codex, OpenClaw & Hermes. One plugin: SEO audits, GEO / AI-visibility, local SEO, KOL pricing, social listening & competitive intelligence from read-only public data over MCP.",
    "kind": "marketing",
    "security_grade": "safe",
@@ -2395,7 +2405,7 @@
   {
    "repo_full_name": "kursku/skills",
    "path": null,
-   "stars": 104,
+   "stars": 105,
    "description": "Catalogo com +2.300 skills para Claude AI — marketing, vendas, SEO, desenvolvimento e mais",
    "kind": "marketing",
    "security_grade": "safe",
@@ -2423,6 +2433,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "adityaarsharma/youtube-marketing-skills",
+   "path": null,
+   "stars": 68,
+   "description": "Open-source agent-agnostic YouTube growth toolkit — 21 AI commands + live channel MCP. Works with Claude Code, Cursor, Codex, Windsurf, Gemini CLI & any MCP client. SEO, scripts, Shorts, thumbnails, analytics, WordPress publishing. Free VidIQ/TubeBuddy alternative.",
+   "kind": "marketing",
+   "security_grade": "safe",
+   "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "LeadMagic/gtm-skills",
    "path": null,
    "stars": 66,
@@ -2430,16 +2450,6 @@
    "kind": "marketing",
    "security_grade": "safe",
    "language": "Python",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "adityaarsharma/youtube-marketing-skills",
-   "path": null,
-   "stars": 66,
-   "description": "Open-source agent-agnostic YouTube growth toolkit — 21 AI commands + live channel MCP. Works with Claude Code, Cursor, Codex, Windsurf, Gemini CLI & any MCP client. SEO, scripts, Shorts, thumbnails, analytics, WordPress publishing. Free VidIQ/TubeBuddy alternative.",
-   "kind": "marketing",
-   "security_grade": "safe",
-   "language": "JavaScript",
    "license": "MIT"
   },
   {
@@ -2495,7 +2505,7 @@
   {
    "repo_full_name": "shalintripathi/saas-marketing-agents",
    "path": null,
-   "stars": 25,
+   "stars": 27,
    "description": "AI marketing agents for Claude Code: a B2B SaaS marketing team as a plugin. 90 agents in 17 disciplines, CATALYST orchestrator, 19 skills and a Campaign Board mod. SEO/AEO/GEO, content, paid, social, email, ABM, PLG, PMM, pricing, sales/presales, partners, analytics. Missing facts come back as [NEEDS INPUT], never invented. Also works in Cursor.",
    "kind": "marketing",
    "security_grade": "safe",
@@ -2523,6 +2533,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "LuCheremisina/marketing-skills",
+   "path": null,
+   "stars": 9,
+   "description": "AI marketing skills for research, SEO/GEO, Yandex advertising analytics and expert content. 27 marketing workflows + 14 optional engineering skills.",
+   "kind": "marketing",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "twominutereports/marketing-skills",
    "path": null,
    "stars": 9,
@@ -2531,16 +2551,6 @@
    "security_grade": "safe",
    "language": "HTML",
    "license": null
-  },
-  {
-   "repo_full_name": "LuCheremisina/marketing-skills",
-   "path": null,
-   "stars": 7,
-   "description": "AI marketing skills for research, SEO/GEO, Yandex advertising analytics and expert content. 27 marketing workflows + 14 optional engineering skills.",
-   "kind": "marketing",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "MIT"
   },
   {
    "repo_full_name": "unempyd/revenueos",
