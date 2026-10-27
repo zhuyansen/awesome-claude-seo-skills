@@ -68,5 +68,15 @@
   "bytes": 242400,
   "file": "duckduckdeploy__openseo.jpg",
   "still": "duckduckdeploy__openseo.jpg"
+ },
+ "tns-research/fog-agents": {
+  "repo": "tns-research/fog-agents",
+  "url": "https://raw.githubusercontent.com/tns-research/fog-agents/HEAD/docs/hero.png",
+  "alt": "Founders Growth Agents, growth agents for founders who don't need a marketing ag",
+  "score": -2.75,
+  "type": "image/png",
+  "bytes": 1953014,
+  "file": "tns-research__fog-agents.jpg",
+  "still": "tns-research__fog-agents.jpg"
  }
 }
