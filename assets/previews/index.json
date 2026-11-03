@@ -59,6 +59,16 @@
   "file": "duckduckdeploy__openseo.jpg",
   "still": "duckduckdeploy__openseo.jpg"
  },
+ "jayanti-prajapati/research-first-writer": {
+  "repo": "jayanti-prajapati/research-first-writer",
+  "url": "https://raw.githubusercontent.com/jayanti-prajapati/research-first-writer/HEAD/docs/screenshots/article-ai-citations.png",
+  "alt": "Rendered example article: How to Get Cited by AI Search",
+  "score": 1.75,
+  "type": "image/png",
+  "bytes": 977690,
+  "file": "jayanti-prajapati__research-first-writer.jpg",
+  "still": "jayanti-prajapati__research-first-writer.jpg"
+ },
  "tns-research/fog-agents": {
   "repo": "tns-research/fog-agents",
   "url": "https://raw.githubusercontent.com/tns-research/fog-agents/HEAD/docs/hero.png",
