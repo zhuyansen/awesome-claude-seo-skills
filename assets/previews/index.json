@@ -39,6 +39,16 @@
   "file": "NicoSKOOL__ai-ranking-scroll-seo.jpg",
   "still": "NicoSKOOL__ai-ranking-scroll-seo.jpg"
  },
+ "avalonreset/legends-dataforseo": {
+  "repo": "avalonreset/legends-dataforseo",
+  "url": "https://raw.githubusercontent.com/avalonreset/legends-dataforseo/HEAD/assets/banner.webp",
+  "alt": "legends-dataforseo",
+  "score": -2.5,
+  "type": "image/webp",
+  "bytes": 30476,
+  "file": "avalonreset__legends-dataforseo.jpg",
+  "still": "avalonreset__legends-dataforseo.jpg"
+ },
  "avalonreset/legends-geogrid": {
   "repo": "avalonreset/legends-geogrid",
   "url": "https://raw.githubusercontent.com/avalonreset/legends-geogrid/HEAD/assets/why-have-we-never-met-before.png",
@@ -58,6 +68,16 @@
   "bytes": 242400,
   "file": "duckduckdeploy__openseo.jpg",
   "still": "duckduckdeploy__openseo.jpg"
+ },
+ "getcheapapi/getcheapapi": {
+  "repo": "getcheapapi/getcheapapi",
+  "url": "https://raw.githubusercontent.com/getcheapapi/getcheapapi/HEAD/site/public/og.png",
+  "alt": "getcheapapi: the lowest price for every API call",
+  "score": 0.0,
+  "type": "image/png",
+  "bytes": 164671,
+  "file": "getcheapapi__getcheapapi.jpg",
+  "still": "getcheapapi__getcheapapi.jpg"
  },
  "jayanti-prajapati/research-first-writer": {
   "repo": "jayanti-prajapati/research-first-writer",
