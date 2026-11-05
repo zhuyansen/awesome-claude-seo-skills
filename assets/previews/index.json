@@ -89,6 +89,16 @@
   "file": "jayanti-prajapati__research-first-writer.jpg",
   "still": "jayanti-prajapati__research-first-writer.jpg"
  },
+ "m4mansoor/seo-agent": {
+  "repo": "m4mansoor/seo-agent",
+  "url": "https://raw.githubusercontent.com/m4mansoor/seo-agent/main/docs/assets/img/session.png",
+  "alt": "A session: the user asks for 5 dofollow backlinks at DA 60 or higher, the agent ",
+  "score": -0.25,
+  "type": "image/png",
+  "bytes": 265673,
+  "file": "m4mansoor__seo-agent.jpg",
+  "still": "m4mansoor__seo-agent.jpg"
+ },
  "tns-research/fog-agents": {
   "repo": "tns-research/fog-agents",
   "url": "https://raw.githubusercontent.com/tns-research/fog-agents/HEAD/docs/hero.png",
@@ -98,5 +108,15 @@
   "bytes": 1953014,
   "file": "tns-research__fog-agents.jpg",
   "still": "tns-research__fog-agents.jpg"
+ },
+ "wojcikdominik/openspider": {
+  "repo": "wojcikdominik/openspider",
+  "url": "https://raw.githubusercontent.com/wojcikdominik/openspider/HEAD/assets/screenshots/urls-light.jpg",
+  "alt": "URL table filtered to HTML pages with the SERP snippet preview of the selected p",
+  "score": 1.55,
+  "type": "image/jpeg",
+  "bytes": 270351,
+  "file": "wojcikdominik__openspider.jpg",
+  "still": "wojcikdominik__openspider.jpg"
  }
 }

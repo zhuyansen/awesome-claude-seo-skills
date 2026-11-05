@@ -2,7 +2,7 @@
 
 [English](README.md)
 
-给 Claude Code、Codex 等 agent 用的开源 **Claude SEO skill、SEO MCP 服务和 GEO 工具**:综合 SEO skill、审计、关键词研究、Search Console 与 SEO 数据 MCP、AI 搜索可见性、内容写作和外链建设。共 266 个仓库,每个都由 [Agent Skills Hub (agentskillshub.top)](https://agentskillshub.top) 读过 README 并做了安全评级。
+给 Claude Code、Codex 等 agent 用的开源 **Claude SEO skill、SEO MCP 服务和 GEO 工具**:综合 SEO skill、审计、关键词研究、Search Console 与 SEO 数据 MCP、AI 搜索可见性、内容写作和外链建设。共 268 个仓库,每个都由 [Agent Skills Hub (agentskillshub.top)](https://agentskillshub.top) 读过 README 并做了安全评级。
 
 带类型筛选的在线页面:**[https://agentskillshub.top/best/seo-tools/](https://agentskillshub.top/best/seo-tools/)** · 每 8 小时刷新
 
@@ -11,7 +11,7 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%"><b>🧰 综合 SEO Skill</b><br><sub>71 个仓库</sub><br><br><a href="https://github.com/NicoSKOOL/ai-ranking-scroll-seo"><img src="assets/previews/NicoSKOOL__ai-ranking-scroll-seo.jpg" width="260" alt="NicoSKOOL/ai-ranking-scroll-seo"></a><br><sub>一个 skill 或 agent 包办审计、关键词、内容和技术检查。</sub><br><a href="#type-suite"><b>查看列表 →</b></a></td>
-<td align="center" valign="top" width="33%"><b>🩺 站点与页面审计</b><br><sub>34 个仓库</sub><br><br><a href="https://github.com/AgriciDaniel/jev-seo"><img src="assets/previews/AgriciDaniel__jev-seo.jpg" width="260" alt="AgriciDaniel/jev-seo"></a><br><sub>抓取站点或读取页面,列出要修的问题。</sub><br><a href="#type-audit"><b>查看列表 →</b></a></td>
+<td align="center" valign="top" width="33%"><b>🩺 站点与页面审计</b><br><sub>35 个仓库</sub><br><br><a href="https://github.com/AgriciDaniel/jev-seo"><img src="assets/previews/AgriciDaniel__jev-seo.jpg" width="260" alt="AgriciDaniel/jev-seo"></a><br><sub>抓取站点或读取页面,列出要修的问题。</sub><br><a href="#type-audit"><b>查看列表 →</b></a></td>
 <td align="center" valign="top" width="33%"><b>🔎 关键词与排名研究</b><br><sub>14 个仓库</sub><br><br><a href="https://github.com/getcheapapi/getcheapapi"><img src="assets/previews/getcheapapi__getcheapapi.jpg" width="260" alt="getcheapapi/getcheapapi"></a><br><sub>找词、估算搜索需求、跟踪排名。</sub><br><a href="#type-research"><b>查看列表 →</b></a></td>
 </tr>
 <tr>
@@ -20,7 +20,7 @@
 <td align="center" valign="top" width="33%"><b>✍️ SEO 内容写作</b><br><sub>23 个仓库</sub><br><br><sub>为排名而写的文章、大纲和页面文案。</sub><br><a href="#type-content"><b>查看列表 →</b></a></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="33%"><b>🔗 外链建设与外链审计</b><br><sub>5 个仓库</sub><br><br><sub>外链与媒体机会、目录提交,以及外链来源检查。</sub><br><a href="#type-links"><b>查看列表 →</b></a></td>
+<td align="center" valign="top" width="33%"><b>🔗 外链建设与外链审计</b><br><sub>6 个仓库</sub><br><br><a href="https://github.com/m4mansoor/seo-agent"><img src="assets/previews/m4mansoor__seo-agent.jpg" width="260" alt="m4mansoor/seo-agent"></a><br><sub>外链与媒体机会、目录提交,以及外链来源检查。</sub><br><a href="#type-links"><b>查看列表 →</b></a></td>
 <td align="center" valign="top" width="33%"><b>📣 含 SEO 的营销合集</b><br><sub>39 个仓库</sub><br><br><a href="https://github.com/LuCheremisina/marketing-skills"><img src="assets/previews/LuCheremisina__marketing-skills.jpg" width="260" alt="LuCheremisina/marketing-skills"></a><br><sub>SEO 只是其中一部分的综合营销合集。</sub><br><a href="#type-marketing"><b>查看列表 →</b></a></td>
 </tr>
 </table>
@@ -28,12 +28,12 @@
 ## 目录
 
 - [🧰 综合 SEO Skill](#type-suite) (71)
-- [🩺 站点与页面审计](#type-audit) (34)
+- [🩺 站点与页面审计](#type-audit) (35)
 - [🔎 关键词与排名研究](#type-research) (14)
 - [🔌 SEO 数据 MCP 与监控面板](#type-data_mcp) (31)
 - [🤖 GEO 与 AI 搜索可见性](#type-geo) (49)
 - [✍️ SEO 内容写作](#type-content) (23)
-- [🔗 外链建设与外链审计](#type-links) (5)
+- [🔗 外链建设与外链审计](#type-links) (6)
 - [📣 含 SEO 的营销合集](#type-marketing) (39)
 
 ## 什么样的仓库能上榜
@@ -52,47 +52,47 @@
 
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
-| [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | 26.6k | Claude Code 的通用 SEO 技能，包含技术 SEO、E-E-A-T、schema、GEO/AEO、代理准备、外链、本地 SEO、电商、国际 SEO… | [SAFE](https://agentskillshub.top/skill/AgriciDaniel/claude-seo/) |
-| [Ryze-AI-Adgent/open-seo-mcp-skills](https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills) | 8.8k | 开源 SEO MCP server 与 SEO、GEO skills，支持 Claude 进行关键词研究、排名跟踪、审计、反向链接及基于真实 GSC/GA4/… | [SAFE](https://agentskillshub.top/skill/Ryze-AI-Adgent/open-seo-mcp-skills/) |
-| [AgriciDaniel/claude-blog](https://github.com/AgriciDaniel/claude-blog) | 2.6k | Claude Code 博客技能套件：30 子技能，5 个 agent，5-gate v1.9.0，支持谷歌排名和 AI 引用，持续开发中。 | [SAFE](https://agentskillshub.top/skill/AgriciDaniel/claude-blog/) |
-| [leopard627/fire-your-seo-agency](https://github.com/leopard627/fire-your-seo-agency) | 993 | 自动审核优化SEO·AEO·GEO·LLMO·NEO的Claude Code技能，替代人工代理 | [SAFE](https://agentskillshub.top/skill/leopard627/fire-your-seo-agency/) |
-| [AgriciDaniel/chatgpt-seo](https://github.com/AgriciDaniel/chatgpt-seo) | 901 | 将页面、草稿或 SEO 导出内容转为 ChatGPT 中的有来源修复计划。 | [SAFE](https://agentskillshub.top/skill/AgriciDaniel/chatgpt-seo/) |
+| [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | 26.9k | Claude Code 的通用 SEO 技能，包含技术 SEO、E-E-A-T、schema、GEO/AEO、代理准备、外链、本地 SEO、电商、国际 SEO… | [SAFE](https://agentskillshub.top/skill/AgriciDaniel/claude-seo/) |
+| [Ryze-AI-Adgent/open-seo-mcp-skills](https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills) | 8.9k | 开源 SEO MCP server 与 SEO、GEO skills，支持 Claude 进行关键词研究、排名跟踪、审计、反向链接及基于真实 GSC/GA4/… | [SAFE](https://agentskillshub.top/skill/Ryze-AI-Adgent/open-seo-mcp-skills/) |
+| [AgriciDaniel/claude-blog](https://github.com/AgriciDaniel/claude-blog) | 2.7k | Claude Code 博客技能套件：30 子技能，5 个 agent，5-gate v1.9.0，支持谷歌排名和 AI 引用，持续开发中。 | [SAFE](https://agentskillshub.top/skill/AgriciDaniel/claude-blog/) |
+| [leopard627/fire-your-seo-agency](https://github.com/leopard627/fire-your-seo-agency) | 995 | 自动审核优化SEO·AEO·GEO·LLMO·NEO的Claude Code技能，替代人工代理 | [SAFE](https://agentskillshub.top/skill/leopard627/fire-your-seo-agency/) |
+| [AgriciDaniel/chatgpt-seo](https://github.com/AgriciDaniel/chatgpt-seo) | 902 | 将页面、草稿或 SEO 导出内容转为 ChatGPT 中的有来源修复计划。 | [SAFE](https://agentskillshub.top/skill/AgriciDaniel/chatgpt-seo/) |
 | [Illyism/seo-skills](https://github.com/Illyism/seo-skills) | 703 | Claude Code、Cursor 和 Codex 的 SEO skill：自动化、标题标签、博客更新、反向链接、客户旅程、视频转录和文案。 | [SAFE](https://agentskillshub.top/skill/Illyism/seo-skills/) |
-| [joeseesun/qiaomu-seo](https://github.com/joeseesun/qiaomu-seo) | 470 | 审计、诊断、研究、规划、实施、实验和验证网站在Google、Bing及AI搜索的SEO技术。 | [SAFE](https://agentskillshub.top/skill/joeseesun/qiaomu-seo/) |
+| [joeseesun/qiaomu-seo](https://github.com/joeseesun/qiaomu-seo) | 471 | 审计、诊断、研究、规划、实施、实验和验证网站在Google、Bing及AI搜索的SEO技术。 | [SAFE](https://agentskillshub.top/skill/joeseesun/qiaomu-seo/) |
 | [ViryaZheng/recomby-geo](https://github.com/ViryaZheng/recomby-geo) | 454 | GEO 领域 AI 员工开源方案，包含 GEO Skills 包和精选 agent 及办公 CLI 列表。 | [SAFE](https://agentskillshub.top/skill/ViryaZheng/recomby-geo/) |
-| [inhouseseo/superseo-skills](https://github.com/inhouseseo/superseo-skills) | 381 | 11 个 SEO Claude skill：页面、链接、文章、E-E-A-T、语义差距审计；方法来自 Koray Tuğberk、Kyle Roof、Lily… | [SAFE](https://agentskillshub.top/skill/inhouseseo/superseo-skills/) |
-| [mars-tw/open-seo-advisor-skill](https://github.com/mars-tw/open-seo-advisor-skill) | 353 | 开源可携带的全域 SEO 顾问技能，支持多行业 SEO 检查修复与内容产出 | [SAFE](https://agentskillshub.top/skill/mars-tw/open-seo-advisor-skill/) |
-| [beyondtahir/beyondseo](https://github.com/beyondtahir/beyondseo) | 251 | 完整SEO工具：原生爬虫、SEO/AEO/GEO、内容、竞品和声誉，含206发布源和定制反链方案，无需API密钥。 | [SAFE](https://agentskillshub.top/skill/beyondtahir/beyondseo/) |
-| [aaron-he-zhu/seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) | 239 | Signpost 包含16个SEO/GEO agent技能，aaron-marketing-skills仓库；本仓库保留20技能版本v9.9.12。安装：np… | [SAFE](https://agentskillshub.top/skill/aaron-he-zhu/seo-geo-claude-skills/) |
+| [inhouseseo/superseo-skills](https://github.com/inhouseseo/superseo-skills) | 383 | 11 个 SEO Claude skill：页面、链接、文章、E-E-A-T、语义差距审计；方法来自 Koray Tuğberk、Kyle Roof、Lily… | [SAFE](https://agentskillshub.top/skill/inhouseseo/superseo-skills/) |
+| [mars-tw/open-seo-advisor-skill](https://github.com/mars-tw/open-seo-advisor-skill) | 354 | 开源可携带的全域 SEO 顾问技能，支持多行业 SEO 检查修复与内容产出 | [SAFE](https://agentskillshub.top/skill/mars-tw/open-seo-advisor-skill/) |
+| [beyondtahir/beyondseo](https://github.com/beyondtahir/beyondseo) | 252 | 完整SEO工具：原生爬虫、SEO/AEO/GEO、内容、竞品和声誉，含206发布源和定制反链方案，无需API密钥。 | [SAFE](https://agentskillshub.top/skill/beyondtahir/beyondseo/) |
+| [aaron-he-zhu/seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) | 240 | Signpost 包含16个SEO/GEO agent技能，aaron-marketing-skills仓库；本仓库保留20技能版本v9.9.12。安装：np… | [SAFE](https://agentskillshub.top/skill/aaron-he-zhu/seo-geo-claude-skills/) |
 | [yan-labs/yan-skills](https://github.com/yan-labs/yan-skills) | 232 | Yan 的 agent skills 集合——Google Trends SEO 工作流、AI 新闻、autopilot 等，适用于 Claude Code… | [SAFE](https://agentskillshub.top/skill/yan-labs/yan-skills/) |
 | [Bomx/distribb-skill](https://github.com/Bomx/distribb-skill) | 204 | Distribb CLI、Claude、Codex、Hermes、OpenClaw 技能支持 AI 驱动的 SEO，使用 AI 写作并通过 Distribb… | [SAFE](https://agentskillshub.top/skill/Bomx/distribb-skill/) |
-| [seranking/seo-skills](https://github.com/seranking/seo-skills) | 198 | Claude SEO Skills：用于 SE Ranking MCP server，涵盖内容简报、审计、关键词集群和 GEO。 | [SAFE](https://agentskillshub.top/skill/seranking/seo-skills/) |
+| [seranking/seo-skills](https://github.com/seranking/seo-skills) | 199 | Claude SEO Skills：用于 SE Ranking MCP server，涵盖内容简报、审计、关键词集群和 GEO。 | [SAFE](https://agentskillshub.top/skill/seranking/seo-skills/) |
 | [akseolabs-seo/seo-coach](https://github.com/akseolabs-seo/seo-coach) | 197 | AK设计的免费开源AI SEO陪跑教练，适合SEO新手和小品牌网站 | [SAFE](https://agentskillshub.top/skill/akseolabs-seo/seo-coach/) |
 | [zubair-trabzada/dataforseo-claude](https://github.com/zubair-trabzada/dataforseo-claude) | 175 | Claude Code 的 SEO 工具，基于 DataForSEO。13 个 skill、5 个 subagent，支持关键词、排名、反向链接、技术爬取、竞… | [SAFE](https://agentskillshub.top/skill/zubair-trabzada/dataforseo-claude/) |
 | [yaojingang/GEOHub](https://github.com/yaojingang/GEOHub) | 170 | GEOHub：基于证据的GEO和SEO智能体技能，支持发现、诊断、内容、测量和SEO规划。 | [SAFE](https://agentskillshub.top/skill/yaojingang/GEOHub/) |
-| [zhtyyx/codex-seo](https://github.com/zhtyyx/codex-seo) | 151 | OpenAI Codex CLI开源免费SEO审计，移植claude-seo：26个skill、19类专职角色；技术SEO/schema/GEO/本地/电商 | [SAFE](https://agentskillshub.top/skill/zhtyyx/codex-seo/) |
+| [zhtyyx/codex-seo](https://github.com/zhtyyx/codex-seo) | 152 | OpenAI Codex CLI开源免费SEO审计，移植claude-seo：26个skill、19类专职角色；技术SEO/schema/GEO/本地/电商 | [SAFE](https://agentskillshub.top/skill/zhtyyx/codex-seo/) |
 | [AgriciDaniel/seo-os](https://github.com/AgriciDaniel/seo-os) | 149 | SEO Office 是一个本地优先的 SEO 代理操作系统，包含 claw3d UI、claude-seo 专家和营销策略，作为私有仓库分发给非技术社区。 | [SAFE](https://agentskillshub.top/skill/AgriciDaniel/seo-os/) |
-| [garrettjsmith/localseoskills](https://github.com/garrettjsmith/localseoskills) | 145 | 开源 Claude 本地 SEO 工具，提供 skills、工具集成和自动化模板 | [SAFE](https://agentskillshub.top/skill/garrettjsmith/localseoskills/) |
+| [garrettjsmith/localseoskills](https://github.com/garrettjsmith/localseoskills) | 146 | 开源 Claude 本地 SEO 工具，提供 skills、工具集成和自动化模板 | [SAFE](https://agentskillshub.top/skill/garrettjsmith/localseoskills/) |
 | [deepakness/google-ai-search-optimization](https://github.com/deepakness/google-ai-search-optimization) | 141 | 基于 Google 搜索指导的非官方 Agent Skill，用于 AI 概览、AI 模式和 SEO 审计。 | [SAFE](https://agentskillshub.top/skill/deepakness/google-ai-search-optimization/) |
 | [AKCodez/seo-god](https://github.com/AKCodez/seo-god) | 123 | 将 Claude Code 变成你网站的 SEO 代理，支持审计、测量、日常循环和定时运行，无需付费密钥。 | [SAFE](https://agentskillshub.top/skill/AKCodez/seo-god/) |
 | [Houseofmvps/ultraship](https://github.com/Houseofmvps/ultraship) | 123 | ULTRASHIP Claude Code插件：39skill、33工具、11agent，涵盖安全、监控、SEO/AI检查和事件响应；1依赖、180测试、MIT | [SAFE](https://agentskillshub.top/skill/Houseofmvps/ultraship/) |
-| [IamRamgarhia/All-In-One-Free-SEO-Tool](https://github.com/IamRamgarhia/All-In-One-Free-SEO-Tool) | 117 | 开源自托管 SEO 工具；99 项工具涵盖审计、排名、关键词、AI 搜索、内容、反链、本地 SEO、白标报告及修复 agent；无需付费 API，MIT。 | [SAFE](https://agentskillshub.top/skill/IamRamgarhia/All-In-One-Free-SEO-Tool/) |
+| [IamRamgarhia/All-In-One-Free-SEO-Tool](https://github.com/IamRamgarhia/All-In-One-Free-SEO-Tool) | 119 | 开源自托管 SEO 工具；99 项工具涵盖审计、排名、关键词、AI 搜索、内容、反链、本地 SEO、白标报告及修复 agent；无需付费 API，MIT。 | [SAFE](https://agentskillshub.top/skill/IamRamgarhia/All-In-One-Free-SEO-Tool/) |
 | [huifer/claude-code-seo](https://github.com/huifer/claude-code-seo) | 111 | Next.js SEO 助手插件，自动化 SEO 审核，涵盖元数据、结构化数据、E-E-A-T、内容策略、本地 SEO 和外链建设，支持双语优化和智能路由检测。 | [SAFE](https://agentskillshub.top/skill/huifer/claude-code-seo/) |
 | [jdevalk/skills](https://github.com/jdevalk/skills) | 111 | Claude Code 的 GitHub 仓库和个人资料、WordPress 与 EmDash 插件、Astro SEO 及内容可读性 skills | [SAFE](https://agentskillshub.top/skill/jdevalk/skills/) |
 | [TheMattBerman/seo-kit](https://github.com/TheMattBerman/seo-kit) | 100 | AI agent 识别关键词、撰写内容、监控排名并自我优化，包含两个 OpenClaw 技能形成复合 SEO 循环。 | [SAFE](https://agentskillshub.top/skill/TheMattBerman/seo-kit/) |
-| [mykpono/ultimate-seo-geo](https://github.com/mykpono/ultimate-seo-geo) | 98 | Claude 的 SEO + GEO 技能，包含站点审核、AI 搜索优化、schema 生成、E-E-A-T 评估和诊断脚本，支持审核、规划和执行三种模式。 | [SAFE](https://agentskillshub.top/skill/mykpono/ultimate-seo-geo/) |
+| [mykpono/ultimate-seo-geo](https://github.com/mykpono/ultimate-seo-geo) | 99 | Claude 的 SEO + GEO 技能，包含站点审核、AI 搜索优化、schema 生成、E-E-A-T 评估和诊断脚本，支持审核、规划和执行三种模式。 | [SAFE](https://agentskillshub.top/skill/mykpono/ultimate-seo-geo/) |
 | [flaqai/Awesome_SEO_Writing_Skill](https://github.com/flaqai/Awesome_SEO_Writing_Skill) | 91 | 分享由Flaq AI团队开发的SEO写作技能合集 | [SAFE](https://agentskillshub.top/skill/flaqai/Awesome_SEO_Writing_Skill/) |
-| [nikhilbhansali/dataforseo-skill-claude](https://github.com/nikhilbhansali/dataforseo-skill-claude) | 69 | Claude Code 的 DataForSEO API 技能，完整的 SEO 数据集成 | [SAFE](https://agentskillshub.top/skill/nikhilbhansali/dataforseo-skill-claude/) |
+| [nikhilbhansali/dataforseo-skill-claude](https://github.com/nikhilbhansali/dataforseo-skill-claude) | 68 | Claude Code 的 DataForSEO API 技能，完整的 SEO 数据集成 | [SAFE](https://agentskillshub.top/skill/nikhilbhansali/dataforseo-skill-claude/) |
 | [norahe0304-art/30x-seo](https://github.com/norahe0304-art/30x-seo) | 58 | 23个适用于Claude Code的生产级SEO技能，包括技术SEO、内容优化、关键词研究、反向链接分析和AI可见性监控。 | [SAFE](https://agentskillshub.top/skill/norahe0304-art/30x-seo/) |
 | [dannwaneri/seo-agent](https://github.com/dannwaneri/seo-agent) | 57 | 开源SEO审计代理，支持真实浏览器检测、反向链接评分和多引擎AI引用跟踪（Claude、ChatGPT等） | [SAFE](https://agentskillshub.top/skill/dannwaneri/seo-agent/) |
 | [southwellmedia/seo-audit](https://github.com/southwellmedia/seo-audit) | 53 | Claude Skill 用于 SEO 审核和 PDF 导出 | [SAFE](https://agentskillshub.top/skill/southwellmedia/seo-audit/) |
+| [199-biotechnologies/claude-skill-seo-geo-optimizer](https://github.com/199-biotechnologies/claude-skill-seo-geo-optimizer) | 52 | 适用于SEO/GEO优化的Claude skill，支持内容分析、实体提取、schema生成和多格式审计报告。 | [SAFE](https://agentskillshub.top/skill/199-biotechnologies/claude-skill-seo-geo-optimizer/) |
+| [XuanRanL/loamwright-SEO-Skill](https://github.com/XuanRanL/loamwright-SEO-Skill) | 52 | 面向Claude Code的生产级SEO和地理内容工厂，支持研究、写作、校对、优化、发布和监控。 | [SAFE](https://agentskillshub.top/skill/XuanRanL/loamwright-SEO-Skill/) |
 | [agencia-conversion/agentic-seo-skills](https://github.com/agencia-conversion/agentic-seo-skills) | 52 | Claude Code 插件形式的 Agentic SEO 操作系统：项目 Wiki、DataForSEO 工作流、内容简报、技术 SEO 和人工审批关卡。 | [SAFE](https://agentskillshub.top/skill/agencia-conversion/agentic-seo-skills/) |
-| [199-biotechnologies/claude-skill-seo-geo-optimizer](https://github.com/199-biotechnologies/claude-skill-seo-geo-optimizer) | 51 | 适用于SEO/GEO优化的Claude skill，支持内容分析、实体提取、schema生成和多格式审计报告。 | [SAFE](https://agentskillshub.top/skill/199-biotechnologies/claude-skill-seo-geo-optimizer/) |
-| [XuanRanL/loamwright-SEO-Skill](https://github.com/XuanRanL/loamwright-SEO-Skill) | 51 | 面向Claude Code的生产级SEO和地理内容工厂，支持研究、写作、校对、优化、发布和监控。 | [SAFE](https://agentskillshub.top/skill/XuanRanL/loamwright-SEO-Skill/) |
 | [sergekostenchuk/seo-llm-skill-cluster](https://github.com/sergekostenchuk/seo-llm-skill-cluster) | 40 | 基于任务计划的SEO和LLM友好型网站技能集群 | [SAFE](https://agentskillshub.top/skill/sergekostenchuk/seo-llm-skill-cluster/) |
 | [mangollc/claude-seo-skill](https://github.com/mangollc/claude-seo-skill) | 39 | 面向机构的Claude Code SEO与AEO插件，支持关键词研究、技术审计、内容优化、本地SEO、外链和AI搜索优化。 | [SAFE](https://agentskillshub.top/skill/mangollc/claude-seo-skill/) |
 | [NicoSKOOL/the-four-systems](https://github.com/NicoSKOOL/the-four-systems) | 37 | 四个由 Claude Code 触发的 SEO 技能，共享仪表盘更新，支持定时自动运行。 | [SAFE](https://agentskillshub.top/skill/NicoSKOOL/the-four-systems/) |
-| [MariusYvard/NullToHero](https://github.com/MariusYvard/NullToHero) | 30 | 适用于Claude Code、Codex、Kimi和Hermes的便携式Agent技能工具包，包含网页设计、SEO/GEO、审计和确定性移动验证。 | [SAFE](https://agentskillshub.top/skill/MariusYvard/NullToHero/) |
+| [MariusYvard/NullToHero](https://github.com/MariusYvard/NullToHero) | 29 | 适用于Claude Code、Codex、Kimi和Hermes的便携式Agent技能工具包，包含网页设计、SEO/GEO、审计和确定性移动验证。 | [SAFE](https://agentskillshub.top/skill/MariusYvard/NullToHero/) |
 | [ziniman/ai-instruct](https://github.com/ziniman/ai-instruct) | 29 | 将 AI 助手转为高级网页开发者，提供 SEO、性能和 agent 准备指南，适用于 Claude Code、Cursor、Copilot 和 Windsur… | [SAFE](https://agentskillshub.top/skill/ziniman/ai-instruct/) |
 | [bonnie-ship-it/AgriciDaniel-claude-seo](https://github.com/bonnie-ship-it/AgriciDaniel-claude-seo) | 23 | Claude SEO 是 Claude Code 的综合 SEO 分析技能，涵盖技术 SEO、页面分析、内容质量、结构化数据、图片优化、网站地图架构、AI 搜… | [CAUTION](https://agentskillshub.top/skill/bonnie-ship-it/AgriciDaniel-claude-seo/) |
 | [lhitches/claude-seo-skills](https://github.com/lhitches/claude-seo-skills) | 22 | 29个免费Claude Skills用于SEO和AI搜索，适用于Claude Desktop。 | [SAFE](https://agentskillshub.top/skill/lhitches/claude-seo-skills/) |
@@ -101,6 +101,7 @@
 | [deeployCO/youtube-seo-skills](https://github.com/deeployCO/youtube-seo-skills) | 21 | Claude Code 的高级 YouTube SEO 技能套件，含审计、优化、关键词、缩略图和竞品分析脚本。 | [SAFE](https://agentskillshub.top/skill/deeployCO/youtube-seo-skills/) |
 | [seoskillsai/seo-skills-ai](https://github.com/seoskillsai/seo-skills-ai) | 21 | SEO Skills AI：基于Claude Code等的通用AI SEO代理和技术优化套件 | [SAFE](https://agentskillshub.top/skill/seoskillsai/seo-skills-ai/) |
 | [thebigasif/google-leak-patents-seo](https://github.com/thebigasif/google-leak-patents-seo) | 21 | 2024年Google内容仓库API泄露，关联5456个搜索专利，包含848个排名信号和77663条专利权利要求，12阶段流程和26个决策手册，可作为Clau… | [SAFE](https://agentskillshub.top/skill/thebigasif/google-leak-patents-seo/) |
+| [rankmyseo/skills](https://github.com/rankmyseo/skills) | 18 | 用于 SEO 的 agent skill：借助 RankMySEO、Search Console 和 GA4 规划、构建、发布和维护网站。草稿。 | [SAFE](https://agentskillshub.top/skill/rankmyseo/skills/) |
 | [searchfit/searchfit-seo](https://github.com/searchfit/searchfit-seo) | 14 | 基于AI的Claude Code SEO工具，网站审计、内容规划、页面优化和可见性跟踪 | [SAFE](https://agentskillshub.top/skill/searchfit/searchfit-seo/) |
 | [jrr996shujin-png/openclaw-seo-aeo-skills](https://github.com/jrr996shujin-png/openclaw-seo-aeo-skills) | 13 | OpenClaw 的 SEO 和 AEO 技能包，诊断网站健康，挖掘长尾问题，跟踪关键词排名和竞品内容，生成月度报告。 | [SAFE](https://agentskillshub.top/skill/jrr996shujin-png/openclaw-seo-aeo-skills/) |
 | [lynnzc/loki-yan-seo-skill](https://github.com/lynnzc/loki-yan-seo-skill) | 13 | Loki Yan (@loki_yan_seo) 公开推文的非官方 Agent Skill，谷歌 SEO/AIO/GEO 诊断引擎。 | [SAFE](https://agentskillshub.top/skill/lynnzc/loki-yan-seo-skill/) |
@@ -118,7 +119,6 @@
 | [CrazySwami/wordpress-dev-skills](https://github.com/CrazySwami/wordpress-dev-skills) | 6 | Claude Code 的完整 WordPress 开发与自动化工具包，包含 Docker、Playground、白标、SEO、视觉质量检测和性能优化技能 | [SAFE](https://agentskillshub.top/skill/CrazySwami/wordpress-dev-skills/) |
 | [affilino/ecommerce-seo-audit-skill](https://github.com/affilino/ecommerce-seo-audit-skill) | 6 | 电商SEO审计技能，提供产品页、分类页、技术SEO、日志分析和竞品调研等全面审计，支持Claude Code等AI编码助手。 | [SAFE](https://agentskillshub.top/skill/affilino/ecommerce-seo-audit-skill/) |
 | [nexscope-ai/ecommerce-seo-geo-skills](https://github.com/nexscope-ai/ecommerce-seo-geo-skills) | 6 | 电商SEO、地理定位、结构化数据、产品列表优化、关键词差距和买家意图内容的通用技能。 | [SAFE](https://agentskillshub.top/skill/nexscope-ai/ecommerce-seo-geo-skills/) |
-| [rankmyseo/skills](https://github.com/rankmyseo/skills) | 6 | 用于 SEO 的 agent skill：借助 RankMySEO、Search Console 和 GA4 规划、构建、发布和维护网站。草稿。 | [SAFE](https://agentskillshub.top/skill/rankmyseo/skills/) |
 | [rocketmandrey/seo-standup](https://github.com/rocketmandrey/seo-standup) | 6 | SEO skill：用于 AI agent，15 分钟站会，讲解如何根据现有需求设计网站。不使用付费 API。 | [SAFE](https://agentskillshub.top/skill/rocketmandrey/seo-standup/) |
 | [venomous2/opencode-seo](https://github.com/venomous2/opencode-seo) | 6 | OpenCode 的 AI 原生 SEO 平台，包含规则引擎、SEO 代码检查、修复引擎、引用评分、漂移监控和图表报告。 | [SAFE](https://agentskillshub.top/skill/venomous2/opencode-seo/) |
 | [oegeyilmaz9/seo-aeo-geo-ultimate](https://github.com/oegeyilmaz9/seo-aeo-geo-ultimate) | 5 | 以证据为先的 SEO、AEO、GEO 和 AI 搜索工作流，适用于 Codex 和 Claude Code，一个路由器，27 个 skill。 | [SAFE](https://agentskillshub.top/skill/oegeyilmaz9/seo-aeo-geo-ultimate/) |
@@ -129,28 +129,33 @@
 
 [在在线页面打开这一类,按星数排序 →](https://agentskillshub.top/best/seo-tools/#type-audit)
 
+<table><tr>
+<td align="center" valign="top"><a href="https://github.com/wojcikdominik/openspider"><img src="assets/previews/wojcikdominik__openspider.jpg" width="260" alt="wojcikdominik/openspider"></a><br><sub><a href="https://github.com/wojcikdominik/openspider">wojcikdominik/openspider</a></sub></td>
+</tr></table>
+
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
 | [Bhanunamikaze/Agentic-SEO-Skill](https://github.com/Bhanunamikaze/Agentic-SEO-Skill) | 1.0k | 面向Antigravity、Codex、Claude的LLM SEO分析技能，含16子技能、10专家agent和88辅助脚本。 | [SAFE](https://agentskillshub.top/skill/Bhanunamikaze/Agentic-SEO-Skill/) |
 | [tigerless-labs/seo-ops](https://github.com/tigerless-labs/seo-ops) | 986 | SEO基础检查Agent Skill：输入URL，获得爬虫视角的通过/失败报告，含证据，26项结构检查，无LLM，确定性。 | [SAFE](https://agentskillshub.top/skill/tigerless-labs/seo-ops/) |
 | [JeffLi1993/seo-audit-skill](https://github.com/JeffLi1993/seo-audit-skill) | 782 | 适用于 OpenClaw、Claude Code 和 AI agents 的 SEO agent skill，生成初级 SEO 审核和高级技术 SEO 报告。 | [SAFE](https://agentskillshub.top/skill/JeffLi1993/seo-audit-skill/) |
-| [AgriciDaniel/jev-seo](https://github.com/AgriciDaniel/jev-seo) | 755 | 实时 SEO 审核任意网站，仅需一个首页 URL，由 Jev 评判。支持 PDF、XLSX 和 Markdown 报告。 | [SAFE](https://agentskillshub.top/skill/AgriciDaniel/jev-seo/) |
+| [AgriciDaniel/jev-seo](https://github.com/AgriciDaniel/jev-seo) | 756 | 实时 SEO 审核任意网站，仅需一个首页 URL，由 Jev 评判。支持 PDF、XLSX 和 Markdown 报告。 | [SAFE](https://agentskillshub.top/skill/AgriciDaniel/jev-seo/) |
 | [seo-skills/seo-audit-skill](https://github.com/seo-skills/seo-audit-skill) | 661 | 命令行SEO审计工具，包含332条规则，涵盖20个类别，分析网站SEO、核心网页指标、安全头、结构化数据和无障碍等。 | [SAFE](https://agentskillshub.top/skill/seo-skills/seo-audit-skill/) |
 | [iannuttall/seo](https://github.com/iannuttall/seo) | 604 | 通过本地CLI和MCP服务器，使用自有爬虫、Search Console和GA4数据提供70多种SEO审计工具。 | [SAFE](https://agentskillshub.top/skill/iannuttall/seo/) |
 | [umutxyp/Seo-Promt-Master](https://github.com/umutxyp/Seo-Promt-Master) | 571 | Google SEO 完整文档，作为 AI 提示工具，映射路由、审核页面并逐步修复问题。 | [SAFE](https://agentskillshub.top/skill/umutxyp/Seo-Promt-Master/) |
-| [squirrelscan/squirrelscan](https://github.com/squirrelscan/squirrelscan) | 306 | 针对编码 agent 的网站 QA 工具，涵盖 SEO、性能、安全、无障碍和 agent 体验的 300 多条审核规则 | [SAFE](https://agentskillshub.top/skill/squirrelscan/squirrelscan/) |
-| [SNLabat/SEO-GEO-AEO-Skill](https://github.com/SNLabat/SEO-GEO-AEO-Skill) | 277 | Claude 的 SEO/GEO/AEO 审计技能 | [SAFE](https://agentskillshub.top/skill/SNLabat/SEO-GEO-AEO-Skill/) |
+| [squirrelscan/squirrelscan](https://github.com/squirrelscan/squirrelscan) | 307 | 针对编码 agent 的网站 QA 工具，涵盖 SEO、性能、安全、无障碍和 agent 体验的 300 多条审核规则 | [SAFE](https://agentskillshub.top/skill/squirrelscan/squirrelscan/) |
+| [SNLabat/SEO-GEO-AEO-Skill](https://github.com/SNLabat/SEO-GEO-AEO-Skill) | 278 | Claude 的 SEO/GEO/AEO 审计技能 | [SAFE](https://agentskillshub.top/skill/SNLabat/SEO-GEO-AEO-Skill/) |
 | [aleksandr-alhoff/seo-landing](https://github.com/aleksandr-alhoff/seo-landing) | 207 | 为 AI 编码 agent 提供高级技术 SEO 工程师能力，构建高性能技术优化的 SEO 着陆页，达到 100/100 Google PageSpeed 和… | [SAFE](https://agentskillshub.top/skill/aleksandr-alhoff/seo-landing/) |
-| [spronta/crawlie](https://github.com/spronta/crawlie) | 116 | 快速免费开源技术SEO和地理爬虫，适用于人类和agent。 | [SAFE](https://agentskillshub.top/skill/spronta/crawlie/) |
+| [spronta/crawlie](https://github.com/spronta/crawlie) | 117 | 快速免费开源技术SEO和地理爬虫，适用于人类和agent。 | [SAFE](https://agentskillshub.top/skill/spronta/crawlie/) |
 | [squirrelscan/skills](https://github.com/squirrelscan/skills) | 106 | squirrelscan 的 Agent 技能，网站 QA 工具，包含 300 多条审计规则。 | [SAFE](https://agentskillshub.top/skill/squirrelscan/skills/) |
 | [Snippet-Digital-Agency/tech-seo-audit-skill](https://github.com/Snippet-Digital-Agency/tech-seo-audit-skill) | 68 | Claude 的技术 SEO 审计技能 | [SAFE](https://agentskillshub.top/skill/Snippet-Digital-Agency/tech-seo-audit-skill/) |
 | [adityaarsharma/sitewalk](https://github.com/adityaarsharma/sitewalk) | 47 | Sitewalk：开源技术SEO爬虫和MCP服务器，支持Claude、Cursor和Codex，含50+检查项，生成PDF和CSV报告，自托管，基于Libre… | [SAFE](https://agentskillshub.top/skill/adityaarsharma/sitewalk/) |
 | [Horosheff/google-yandex-seo-skill](https://github.com/Horosheff/google-yandex-seo-skill) | 42 | 独立的 Cursor/OpenClaw SEO 审核技能，支持 Google 和 Yandex。 | [SAFE](https://agentskillshub.top/skill/Horosheff/google-yandex-seo-skill/) |
-| [spruikco/fat-agent-skill](https://github.com/spruikco/fat-agent-skill) | 38 | FAT Agent 是一个 Claude Skill，自动化网站发布后的质量检测，涵盖 SEO、安全、无障碍和性能等。 | [SAFE](https://agentskillshub.top/skill/spruikco/fat-agent-skill/) |
+| [spruikco/fat-agent-skill](https://github.com/spruikco/fat-agent-skill) | 40 | FAT Agent 是一个 Claude Skill，自动化网站发布后的质量检测，涵盖 SEO、安全、无障碍和性能等。 | [SAFE](https://agentskillshub.top/skill/spruikco/fat-agent-skill/) |
 | [AndacGuven/technical-seo-skill](https://github.com/AndacGuven/technical-seo-skill) | 34 | 这是一个面向生产的技术SEO审计技能，模拟真实技术SEO专家，发现网站可索引和不可索引的URL。 | [SAFE](https://agentskillshub.top/skill/AndacGuven/technical-seo-skill/) |
 | [iklynow-hue/seo-geo-skills](https://github.com/iklynow-hue/seo-geo-skills) | 28 | 适用于 Codex 和 Claude Code 的 SEO/GEO 站点审计技能，支持限量爬取、模板感知采样和本地 Lighthouse 或 PageSpee… | [SAFE](https://agentskillshub.top/skill/iklynow-hue/seo-geo-skills/) |
 | [wonfull888/seo-audit](https://github.com/wonfull888/seo-audit) | 28 | SEO Audit Skill 是基于谷歌搜索指南和 Ahrefs SEO 清单的 AI SEO 审计工具，支持 92 项检查，结果与付费工具相当，适用于任何… | [SAFE](https://agentskillshub.top/skill/wonfull888/seo-audit/) |
 | [annygabb/pagespeed-seo-optimizer](https://github.com/annygabb/pagespeed-seo-optimizer) | 20 | 用于优化网站性能、SEO、无障碍和最佳实践的 Skill，基于 PageSpeed Insights 和 Lighthouse。 | [SAFE](https://agentskillshub.top/skill/annygabb/pagespeed-seo-optimizer/) |
+| [wojcikdominik/openspider](https://github.com/wojcikdominik/openspider) | 18 | 开源网站爬虫与技术 SEO 审计工具，供 AI agents 和人类使用（macOS、Windows）。Rust + Tauri，原生支持 MCP。 | [SAFE](https://agentskillshub.top/skill/wojcikdominik/openspider/) |
 | [sodam-ai/SoDam-SeoMedic](https://github.com/sodam-ai/SoDam-SeoMedic) | 16 | Claude Code 插件，网站SEO/GEO诊断及GSC/GA4/PSI联动，Next.js项目自动修正和GitHub PR建议 | [SAFE](https://agentskillshub.top/skill/sodam-ai/SoDam-SeoMedic/) |
 | [spcaeo/toadstone](https://github.com/spcaeo/toadstone) | 11 | Screaming Frog 自托管替代方案：无按 URL 计费，含 222 项 SEO 检查，支持 JS 渲染、axe-core、HTTP API、MCP… | [SAFE](https://agentskillshub.top/skill/spcaeo/toadstone/) |
 | [wishfy-ai/google-seo-geo-aeo-audit-skill](https://github.com/wishfy-ai/google-seo-geo-aeo-audit-skill) | 11 | 审计网站，检查谷歌推荐的所有AI搜索SEO、GEO、AEO最佳实践。 | [SAFE](https://agentskillshub.top/skill/wishfy-ai/google-seo-geo-aeo-audit-skill/) |
@@ -162,9 +167,9 @@
 | [Shantodotdev/blacksparrow](https://github.com/Shantodotdev/blacksparrow) | 6 | 本地优先的高速网站爬虫和120条规则的技术SEO审核引擎，支持原生MCP。 | [SAFE](https://agentskillshub.top/skill/Shantodotdev/blacksparrow/) |
 | [ducrz/seo-audit-marketplace](https://github.com/ducrz/seo-audit-marketplace) | 6 | 基于Google和Bing标准的SEO审计评分插件，适用于Claude Code | [SAFE](https://agentskillshub.top/skill/ducrz/seo-audit-marketplace/) |
 | [JittoJoseph/seo-skills](https://github.com/JittoJoseph/seo-skills) | 5 | 面向 Claude Code、Codex 和 Cursor 的 Shopify SEO 审计工具，通过 URL 检查爬虫可读内容及优先修复项，无需应用或 AP… | [SAFE](https://agentskillshub.top/skill/JittoJoseph/seo-skills/) |
+| [Luzikov/codex-seo-skill](https://github.com/Luzikov/codex-seo-skill) | 5 | Codex 的 SEO 审计技能，包含技术 SEO、schema、AI 搜索和 Next.js 代码审查。 | [SAFE](https://agentskillshub.top/skill/Luzikov/codex-seo-skill/) |
 | [jgoullet/seo-geo-audit](https://github.com/jgoullet/seo-geo-audit) | 5 | Claude Code/Claude.ai 的 SEO-GEO 系统：5 个 skill，涵盖技术SEO、AI可见性和竞品分析，默认英文 | [SAFE](https://agentskillshub.top/skill/jgoullet/seo-geo-audit/) |
 | [vdalhambra/siteaudit-mcp](https://github.com/vdalhambra/siteaudit-mcp) | 5 | 针对任意网址的即时SEO、性能和安全审计，AI代理的MCP服务器 | [SAFE](https://agentskillshub.top/skill/vdalhambra/siteaudit-mcp/) |
-| [Luzikov/codex-seo-skill](https://github.com/Luzikov/codex-seo-skill) | 4 | Codex 的 SEO 审计技能，包含技术 SEO、schema、AI 搜索和 Next.js 代码审查。 | [SAFE](https://agentskillshub.top/skill/Luzikov/codex-seo-skill/) |
 
 <a id="type-research"></a>
 ## 🔎 关键词与排名研究
@@ -200,26 +205,26 @@
 
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
-| [every-app/open-seo](https://github.com/every-app/open-seo) | 26.4k | Semrush 和 Ahrefs 的开源替代方案 | [SAFE](https://agentskillshub.top/skill/every-app/open-seo/) |
+| [every-app/open-seo](https://github.com/every-app/open-seo) | 26.5k | Semrush 和 Ahrefs 的开源替代方案 | [SAFE](https://agentskillshub.top/skill/every-app/open-seo/) |
 | [AminForou/mcp-gsc](https://github.com/AminForou/mcp-gsc) | 2.1k | 结合 Claude AI 的 Google Search Console Insights，助力 SEO 分析 | [SAFE](https://agentskillshub.top/skill/AminForou/mcp-gsc/) |
-| [crawlseo/crawlseo](https://github.com/crawlseo/crawlseo) | 672 | 开源SEO监控，集成GSC、网站爬虫和核心网页指标于一体。 | [SAFE](https://agentskillshub.top/skill/crawlseo/crawlseo/) |
-| [avansaber/seo-monster](https://github.com/avansaber/seo-monster) | 560 | SEOMonster：基于用户凭证的本地MCP服务器，支持Google Search Console、GA4、PageSpeed Insights和Cloud… | [SAFE](https://agentskillshub.top/skill/avansaber/seo-monster/) |
-| [springvoiceswell/semrush-ai-tool](https://github.com/springvoiceswell/semrush-ai-tool) | 539 | Semrush SEO AI 分析工具 MCP 服务器和命令行，用于关键词研究、域名分析和反向链接分析 | [SAFE](https://agentskillshub.top/skill/springvoiceswell/semrush-ai-tool/) |
+| [crawlseo/crawlseo](https://github.com/crawlseo/crawlseo) | 674 | 开源SEO监控，集成GSC、网站爬虫和核心网页指标于一体。 | [SAFE](https://agentskillshub.top/skill/crawlseo/crawlseo/) |
+| [springvoiceswell/semrush-ai-tool](https://github.com/springvoiceswell/semrush-ai-tool) | 536 | Semrush SEO AI 分析工具 MCP 服务器和命令行，用于关键词研究、域名分析和反向链接分析 | [SAFE](https://agentskillshub.top/skill/springvoiceswell/semrush-ai-tool/) |
+| [avansaber/seo-monster](https://github.com/avansaber/seo-monster) | 511 | SEOMonster：基于用户凭证的本地MCP服务器，支持Google Search Console、GA4、PageSpeed Insights和Cloud… | [SAFE](https://agentskillshub.top/skill/avansaber/seo-monster/) |
 | [saurabhsharma2u/search-console-mcp](https://github.com/saurabhsharma2u/search-console-mcp) | 320 | 搜索与分析数据基础设施，支持Google Search Console、Bing Webmaster Tools、Google Adsense和GA4，适用于… | [SAFE](https://agentskillshub.top/skill/saurabhsharma2u/search-console-mcp/) |
-| [ahonn/mcp-server-gsc](https://github.com/ahonn/mcp-server-gsc) | 282 | MCP 服务器，提供 Google Search Console 访问服务 | [SAFE](https://agentskillshub.top/skill/ahonn/mcp-server-gsc/) |
+| [ahonn/mcp-server-gsc](https://github.com/ahonn/mcp-server-gsc) | 283 | MCP 服务器，提供 Google Search Console 访问服务 | [SAFE](https://agentskillshub.top/skill/ahonn/mcp-server-gsc/) |
 | [cnych/seo-mcp](https://github.com/cnych/seo-mcp) | 260 | 基于Ahrefs数据的免费SEO工具MCP服务，包含反向链接和关键词建议等功能。 | [SAFE](https://agentskillshub.top/skill/cnych/seo-mcp/) |
 | [dataforseo/mcp-server-typescript](https://github.com/dataforseo/mcp-server-typescript) | 260 | DataForSEO API 的 modelcontextprotocol 服务器 | [SAFE](https://agentskillshub.top/skill/dataforseo/mcp-server-typescript/) |
 | [egebese/dataseo-mcp](https://github.com/egebese/dataseo-mcp) | 193 | 基于MCP和Ahrefs数据的免费SEO研究工具，提供反向链接分析、关键词研究和流量估算。 | [SAFE](https://agentskillshub.top/skill/egebese/dataseo-mcp/) |
-| [Suganthan-Mohanadasan/Suganthans-GSC-MCP](https://github.com/Suganthan-Mohanadasan/Suganthans-GSC-MCP) | 175 | 一个用于Google Search Console的MCP服务器，提供29种工具分析搜索数据和指标。 | [SAFE](https://agentskillshub.top/skill/Suganthan-Mohanadasan/Suganthans-GSC-MCP/) |
+| [Suganthan-Mohanadasan/Suganthans-GSC-MCP](https://github.com/Suganthan-Mohanadasan/Suganthans-GSC-MCP) | 176 | 一个用于Google Search Console的MCP服务器，提供29种工具分析搜索数据和指标。 | [SAFE](https://agentskillshub.top/skill/Suganthan-Mohanadasan/Suganthans-GSC-MCP/) |
 | [houtini-ai/seo-audit](https://github.com/houtini-ai/seo-audit) | 97 | 免费SEO审计MCP服务器，整合Google Search Console、首方爬虫、DataForSEO和Majestic SEO数据，完成技术SEO审计。 | [SAFE](https://agentskillshub.top/skill/houtini-ai/seo-audit/) |
-| [NeoZi12/dispatchseo](https://github.com/NeoZi12/dispatchseo) | 95 | 将 AI agent 用作 SEO 经理，支持 Claude Code、Codex 和 Cursor，开源替代 SEObot 和 Outrank | [SAFE](https://agentskillshub.top/skill/NeoZi12/dispatchseo/) |
+| [NeoZi12/dispatchseo](https://github.com/NeoZi12/dispatchseo) | 96 | 将 AI agent 用作 SEO 经理，支持 Claude Code、Codex 和 Cursor，开源替代 SEObot 和 Outrank | [SAFE](https://agentskillshub.top/skill/NeoZi12/dispatchseo/) |
 | [bzsasson/screaming-frog-mcp](https://github.com/bzsasson/screaming-frog-mcp) | 94 | Screaming Frog SEO Spider 的无头 MCP 服务器，通过 CLI 运行爬取、导出和分析数据，适合定时审计和自动化任务。 | [SAFE](https://agentskillshub.top/skill/bzsasson/screaming-frog-mcp/) |
 | [Skobyn/dataforseo-mcp-server](https://github.com/Skobyn/dataforseo-mcp-server) | 83 | DataForSEO API 的全面 stdio MCP 服务器 | [SAFE](https://agentskillshub.top/skill/Skobyn/dataforseo-mcp-server/) |
 | [seyka-ai/yandex-tools-mcp](https://github.com/seyka-ai/yandex-tools-mcp) | 70 | Yandex MCP：Search、Wordstat、Webmaster、Metrika、Direct；Claude 等工具支持俄/CIS 关键词/SEO/P… | [SAFE](https://agentskillshub.top/skill/seyka-ai/yandex-tools-mcp/) |
 | [fenjo26/OpenGSC](https://github.com/fenjo26/OpenGSC) | 54 | 自托管Google Search Console仪表盘，支持排名跟踪、关键词研究、AI可见性审核和AI SEO内容套件，含94工具MCP服务器，无需订阅，使用… | [CAUTION](https://agentskillshub.top/skill/fenjo26/OpenGSC/) |
 | [Suganthan-Mohanadasan/Suganthans-BigQuery-MCP-Server](https://github.com/Suganthan-Mohanadasan/Suganthans-BigQuery-MCP-Server) | 44 | Claude 的 BigQuery MCP 服务器，支持自然语言查询和内置 GSC 批量导出数据的 SEO 分析工具 | [SAFE](https://agentskillshub.top/skill/Suganthan-Mohanadasan/Suganthans-BigQuery-MCP-Server/) |
 | [mrkooblu/semrush-mcp](https://github.com/mrkooblu/semrush-mcp) | 40 | MCP 服务器实现，提供访问 Semrush API 数据的工具。 | [SAFE](https://agentskillshub.top/skill/mrkooblu/semrush-mcp/) |
-| [duckduckdeploy/openseo](https://github.com/duckduckdeploy/openseo) | 27 | 开源版 Ahrefs 和 SEMrush | [SAFE](https://agentskillshub.top/skill/duckduckdeploy/openseo/) |
+| [duckduckdeploy/openseo](https://github.com/duckduckdeploy/openseo) | 28 | 开源版 Ahrefs 和 SEMrush | [SAFE](https://agentskillshub.top/skill/duckduckdeploy/openseo/) |
 | [mshahiddigital/screamingfrog-audit-mcp](https://github.com/mshahiddigital/screamingfrog-audit-mcp) | 23 | 通过 Claude、Cursor 或任何 MCP 客户端驱动 Screaming Frog SEO Spider，实现无头爬取、问题排名、分析和报告分享，支持… | [SAFE](https://agentskillshub.top/skill/mshahiddigital/screamingfrog-audit-mcp/) |
 | [itsjwill/seoctopus](https://github.com/itsjwill/seoctopus) | 12 | 8臂SEO智能，MCP服务器和CLI，含23个排名跟踪、分析和监控工具 | [SAFE](https://agentskillshub.top/skill/itsjwill/seoctopus/) |
 | [acamolese/google-search-console-mcp](https://github.com/acamolese/google-search-console-mcp) | 9 | MCP 服务器，提供17个只读工具，涵盖性能查询、快速优化、CTR差距、流量诊断和索引，含英文或意大利文白标SEO审计。 | [SAFE](https://agentskillshub.top/skill/acamolese/google-search-console-mcp/) |
@@ -247,17 +252,17 @@
 | [onvoyage-ai/gtm-engineer-skills](https://github.com/onvoyage-ai/gtm-engineer-skills) | 1.4k | 提升网站 AEO 和 GEO 评分的 Claude Code skill：16 项基础检查、6 个智能维度、框架适配修复 | [SAFE](https://agentskillshub.top/skill/onvoyage-ai/gtm-engineer-skills/) |
 | [Auriti-Labs/geo-optimizer-skill](https://github.com/Auriti-Labs/geo-optimizer-skill) | 1.3k | 开源AEO和GEO工具包，审计优化并跟踪ChatGPT等AI是否引用你的网站，支持CLI、Python、MCP、Astro。 | [SAFE](https://agentskillshub.top/skill/Auriti-Labs/geo-optimizer-skill/) |
 | [yaojingang/yao-geo-skills](https://github.com/yaojingang/yao-geo-skills) | 914 | 一个持续更新的开源GEO内容和工作流Skill集合。 | [SAFE](https://agentskillshub.top/skill/yaojingang/yao-geo-skills/) |
-| [elmohq/elmo](https://github.com/elmohq/elmo) | 564 | 开源的AEO和GEO平台，跟踪ChatGPT等AI搜索中品牌提及和引用，MIT许可，自托管，指标可审计。 | [SAFE](https://agentskillshub.top/skill/elmohq/elmo/) |
-| [ai-search-guru/getcito-worlds-first-open-source-aio-aeo-or-geo-tool](https://github.com/ai-search-guru/getcito-worlds-first-open-source-aio-aeo-or-geo-tool) | 505 | GetCito 开源的 AI 搜索优化、答案引擎优化和 AI 可见性跟踪工具。 | [SAFE](https://agentskillshub.top/skill/ai-search-guru/getcito-worlds-first-open-source-aio-aeo-or-geo-tool/) |
-| [limelit-co/open](https://github.com/limelit-co/open) | 349 | 自托管AI可见性追踪，监测ChatGPT、Claude等提及和引用品牌情况。 | [SAFE](https://agentskillshub.top/skill/limelit-co/open/) |
-| [addyosmani/agentic-seo](https://github.com/addyosmani/agentic-seo) | 343 | 智能体 SEO / 智能体引擎优化（AEO）工具 | [SAFE](https://agentskillshub.top/skill/addyosmani/agentic-seo/) |
-| [ALLENLION35/geo-first-principles](https://github.com/ALLENLION35/geo-first-principles) | 302 | 面向企业负责人的开源 GEO 分析 Skill，判断适合性、价值及投入，提供场景和行动建议，支持 Agent Skills 格式。 | [SAFE](https://agentskillshub.top/skill/ALLENLION35/geo-first-principles/) |
-| [Fangx-AI/geo-doctor](https://github.com/Fangx-AI/geo-doctor) | 259 | GEO医生：分析豆包、DeepSeek、ChatGPT、Claude未推荐原因，修改资料和内容并复查。开源中英双语GEO skill。 | [SAFE](https://agentskillshub.top/skill/Fangx-AI/geo-doctor/) |
+| [elmohq/elmo](https://github.com/elmohq/elmo) | 570 | 开源的AEO和GEO平台，跟踪ChatGPT等AI搜索中品牌提及和引用，MIT许可，自托管，指标可审计。 | [SAFE](https://agentskillshub.top/skill/elmohq/elmo/) |
+| [ai-search-guru/getcito-worlds-first-open-source-aio-aeo-or-geo-tool](https://github.com/ai-search-guru/getcito-worlds-first-open-source-aio-aeo-or-geo-tool) | 449 | GetCito 开源的 AI 搜索优化、答案引擎优化和 AI 可见性跟踪工具。 | [SAFE](https://agentskillshub.top/skill/ai-search-guru/getcito-worlds-first-open-source-aio-aeo-or-geo-tool/) |
+| [limelit-co/open](https://github.com/limelit-co/open) | 377 | 自托管AI可见性追踪，监测ChatGPT、Claude等提及和引用品牌情况。 | [SAFE](https://agentskillshub.top/skill/limelit-co/open/) |
+| [addyosmani/agentic-seo](https://github.com/addyosmani/agentic-seo) | 342 | 智能体 SEO / 智能体引擎优化（AEO）工具 | [SAFE](https://agentskillshub.top/skill/addyosmani/agentic-seo/) |
+| [Fangx-AI/geo-doctor](https://github.com/Fangx-AI/geo-doctor) | 305 | GEO医生：分析豆包、DeepSeek、ChatGPT、Claude未推荐原因，修改资料和内容并复查。开源中英双语GEO skill。 | [SAFE](https://agentskillshub.top/skill/Fangx-AI/geo-doctor/) |
+| [ALLENLION35/geo-first-principles](https://github.com/ALLENLION35/geo-first-principles) | 301 | 面向企业负责人的开源 GEO 分析 Skill，判断适合性、价值及投入，提供场景和行动建议，支持 Agent Skills 格式。 | [SAFE](https://agentskillshub.top/skill/ALLENLION35/geo-first-principles/) |
 | [cxcscmu/AutoGEO](https://github.com/cxcscmu/AutoGEO) | 236 | AutoGEO：自动学习生成引擎偏好并重写网页内容的优化框架。 | [SAFE](https://agentskillshub.top/skill/cxcscmu/AutoGEO/) |
 | [liangdabiao/GEO-Content-Optimizer-Skill](https://github.com/liangdabiao/GEO-Content-Optimizer-Skill) | 233 | GEO 是针对 AI 搜索引擎的内容优化方法，提供3个 Agent Skill 覆盖全流程。 | [SAFE](https://agentskillshub.top/skill/liangdabiao/GEO-Content-Optimizer-Skill/) |
-| [ansvisor/ansvisor](https://github.com/ansvisor/ansvisor) | 229 | 开源AI搜索智能平台，跟踪分析ChatGPT、Claude等AI的可见性、引用、提示和内容机会。 | [SAFE](https://agentskillshub.top/skill/ansvisor/ansvisor/) |
-| [mverab/eGEOagents](https://github.com/mverab/eGEOagents) | 218 | 开源生成引擎优化和答案引擎优化工具，提升内容在ChatGPT等中的排名，支持CLI、Claude Code和MCP。 | [SAFE](https://agentskillshub.top/skill/mverab/eGEOagents/) |
-| [Canonry/canonry](https://github.com/Canonry/canonry) | 199 | 以 Agent 为核心的 AI SEO (AEO/GEO) 运营平台 | [SAFE](https://agentskillshub.top/skill/Canonry/canonry/) |
+| [ansvisor/ansvisor](https://github.com/ansvisor/ansvisor) | 231 | 开源AI搜索智能平台，跟踪分析ChatGPT、Claude等AI的可见性、引用、提示和内容机会。 | [SAFE](https://agentskillshub.top/skill/ansvisor/ansvisor/) |
+| [mverab/eGEOagents](https://github.com/mverab/eGEOagents) | 217 | 开源生成引擎优化和答案引擎优化工具，提升内容在ChatGPT等中的排名，支持CLI、Claude Code和MCP。 | [SAFE](https://agentskillshub.top/skill/mverab/eGEOagents/) |
+| [Canonry/canonry](https://github.com/Canonry/canonry) | 198 | 以 Agent 为核心的 AI SEO (AEO/GEO) 运营平台 | [SAFE](https://agentskillshub.top/skill/Canonry/canonry/) |
 | [Infrasity-Labs/dev-gtm-claude-skills](https://github.com/Infrasity-Labs/dev-gtm-claude-skills) | 157 | 面向 GEO、AI 可发现性和开发者 GTM 流程的开源 Claude skills，帮助文档被 AI 系统发现、解析和引用。 | [SAFE](https://agentskillshub.top/skill/Infrasity-Labs/dev-gtm-claude-skills/) |
 | [Houseofmvps/claude-rank](https://github.com/Houseofmvps/claude-rank) | 149 | Claude Code 插件，分析网站无法被 AI 引用的原因并自动修复发现文件，包含 10 个扫描器和 170 多条规则。 | [SAFE](https://agentskillshub.top/skill/Houseofmvps/claude-rank/) |
 | [OranAi-Ltd/orangeo-ai-visibility-skill](https://github.com/OranAi-Ltd/orangeo-ai-visibility-skill) | 144 | 开源GEO/AEO技能，检查robots.txt、llms.txt、schema、引用信号、竞争差距和买家提示 | [SAFE](https://agentskillshub.top/skill/OranAi-Ltd/orangeo-ai-visibility-skill/) |
@@ -274,11 +279,11 @@
 | [seo-skills/geo-audit-skill](https://github.com/seo-skills/geo-audit-skill) | 39 | 用于AI搜索的确定性GEO审计，Python命令行工具和Claude Code技能评分AI引擎阅读引用网站的能力。 | [SAFE](https://agentskillshub.top/skill/seo-skills/geo-audit-skill/) |
 | [jianruntech/geo-score](https://github.com/jianruntech/geo-score) | 34 | AI 引擎是否引用你的网站？提供 0–100 准备度评分、提问和每周引用跟踪，支持 OpenAI、Perplexity、Gemini、Anthropic 和… | [SAFE](https://agentskillshub.top/skill/jianruntech/geo-score/) |
 | [followanton/sleepwalker](https://github.com/followanton/sleepwalker) | 25 | 使用 Sleepwalker 访问 AI 可见性数据和内容智能洞察，通过 MCP、API、CLI 和 Sleepwalker 应用提供。 | [SAFE](https://agentskillshub.top/skill/followanton/sleepwalker/) |
-| [codextde/autoseo](https://github.com/codextde/autoseo) | 21 | 开源AI SEO与GEO平台，支持ChatGPT、Perplexity、Gemini、Claude和Google AI品牌监测、关键词研究、排名跟踪、网站审计… | [SAFE](https://agentskillshub.top/skill/codextde/autoseo/) |
+| [codextde/autoseo](https://github.com/codextde/autoseo) | 23 | 开源AI SEO与GEO平台，支持ChatGPT、Perplexity、Gemini、Claude和Google AI品牌监测、关键词研究、排名跟踪、网站审计… | [SAFE](https://agentskillshub.top/skill/codextde/autoseo/) |
 | [craftsail/craftsail-growth](https://github.com/craftsail/craftsail-growth) | 20 | 自托管的GEO与AI SEO仪表盘，跟踪ChatGPT等提及品牌，比较声量，审核网站并提供行动方案。 | [CAUTION](https://agentskillshub.top/skill/craftsail/craftsail-growth/) |
 | [ForkPoint/agent-lighthouse](https://github.com/ForkPoint/agent-lighthouse) | 17 | 针对 AI 代理、LLM 爬虫、MCP 客户端和智能网络的 Lighthouse 风格审计。 | [SAFE](https://agentskillshub.top/skill/ForkPoint/agent-lighthouse/) |
+| [bemoshiur/OmniRank](https://github.com/bemoshiur/OmniRank) | 13 | OmniRank 是运行在仓库内的 SEO/AEO/GEO 审计工具，定位问题源文件并显示修复差异，生成 llms.txt 和 facts.json，支持 C… | [SAFE](https://agentskillshub.top/skill/bemoshiur/OmniRank/) |
 | [bytefer/geo-seo-codex](https://github.com/bytefer/geo-seo-codex) | 13 | Codex 的 GEO-first SEO 工具包，支持网站 AI 搜索可见性审计和报告生成。 | [SAFE](https://agentskillshub.top/skill/bytefer/geo-seo-codex/) |
-| [bemoshiur/OmniRank](https://github.com/bemoshiur/OmniRank) | 12 | OmniRank 是运行在仓库内的 SEO/AEO/GEO 审计工具，定位问题源文件并显示修复差异，生成 llms.txt 和 facts.json，支持 C… | [SAFE](https://agentskillshub.top/skill/bemoshiur/OmniRank/) |
 | [Manavarya09/citelens](https://github.com/Manavarya09/citelens) | 10 | 开源自托管的SEO和GEO工具，跟踪Google排名及ChatGPT、Claude等引用情况并提供修正方案。 | [SAFE](https://agentskillshub.top/skill/Manavarya09/citelens/) |
 | [petar-nauka/ai-visibility-skill](https://github.com/petar-nauka/ai-visibility-skill) | 9 | 测量 ChatGPT、Claude、Gemini 和 Perplexity 是否推荐你的品牌，并修复原因。免费 Agent Skill，无需账号和数据库，仅用… | [SAFE](https://agentskillshub.top/skill/petar-nauka/ai-visibility-skill/) |
 | [Ghanyte/geo-seo-audit](https://github.com/Ghanyte/geo-seo-audit) | 8 | 基于证据的Claude Code GEO审计工具包，支持多模型可见性、JSON-LD验证和RRF测量，无付费API，仅审计。 | [SAFE](https://agentskillshub.top/skill/Ghanyte/geo-seo-audit/) |
@@ -303,8 +308,8 @@
 | [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | 7.6k | 专为长篇SEO优化博客内容设计的Claude Code工作区，助力内容研究、撰写和优化。 | [SAFE](https://agentskillshub.top/skill/TheCraigHewitt/seomachine/) |
 | [gbessoni/seobuild-onpage](https://github.com/gbessoni/seobuild-onpage) | 265 | SEOBuild Onpage 是基于 DeerFlow 的 AI 代理，生成符合 2026 SEO 和 GEO 策略的排名页面，支持竞争分析、实体共识和验证… | [SAFE](https://agentskillshub.top/skill/gbessoni/seobuild-onpage/) |
 | [rediumvex/seo-blog-writer-claude](https://github.com/rediumvex/seo-blog-writer-claude) | 63 | SEO博客写作Claude skill，将网址、笔记或主题转为符合SEO的自然博客文章，自动生成标题、描述、FAQ和目录，能通过AI检测。 | [SAFE](https://agentskillshub.top/skill/rediumvex/seo-blog-writer-claude/) |
-| [tiagolemos05/claude-mcps-and-prompts](https://github.com/tiagolemos05/claude-mcps-and-prompts) | 57 | 使用 Claude 和 MCP 自动生成 SEO 博客，包含 n8n 工作流、提示和风格指南。 | [SAFE](https://agentskillshub.top/skill/tiagolemos05/claude-mcps-and-prompts/) |
-| [octolens/seo-page-builder](https://github.com/octolens/seo-page-builder) | 55 | Octolens MCP 的 SEO 页面研究内容 | [SAFE](https://agentskillshub.top/skill/octolens/seo-page-builder/) |
+| [octolens/seo-page-builder](https://github.com/octolens/seo-page-builder) | 56 | Octolens MCP 的 SEO 页面研究内容 | [SAFE](https://agentskillshub.top/skill/octolens/seo-page-builder/) |
+| [tiagolemos05/claude-mcps-and-prompts](https://github.com/tiagolemos05/claude-mcps-and-prompts) | 56 | 使用 Claude 和 MCP 自动生成 SEO 博客，包含 n8n 工作流、提示和风格指南。 | [SAFE](https://agentskillshub.top/skill/tiagolemos05/claude-mcps-and-prompts/) |
 | [jadedagher/seo-agent-stack](https://github.com/jadedagher/seo-agent-stack) | 22 | 基于Claude Code的开源AI代理系统，支持SEO内容分析、规划、撰写、质检和发布到Webflow CMS。 | [SAFE](https://agentskillshub.top/skill/jadedagher/seo-agent-stack/) |
 | [weipanux/seo-geo-blog-writer](https://github.com/weipanux/seo-geo-blog-writer) | 16 | Claude skill 用于创建同时优化传统搜索引擎和生成式 AI 引用的博客文章 | [SAFE](https://agentskillshub.top/skill/weipanux/seo-geo-blog-writer/) |
 | [viren040/content-seo-orchestrator](https://github.com/viren040/content-seo-orchestrator) | 15 | Claude Code 本地内容 SEO 流程：研究→简报→写作→评分→发布→IndexNow，15 分钟/天，约 0.45 美元/篇，MIT 许可。 | [SAFE](https://agentskillshub.top/skill/viren040/content-seo-orchestrator/) |
@@ -331,10 +336,11 @@
 
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
-| [flaqai/backlink_skills](https://github.com/flaqai/backlink_skills) | 869 | 提交网址到免费网站的技能，帮助网站获取更多流量和反向链接。 | [SAFE](https://agentskillshub.top/skill/flaqai/backlink_skills/) |
-| [s87343472/backlink-pilot](https://github.com/s87343472/backlink-pilot) | 424 | 独立开发者自动提交产品到目录网站、精选列表和搜索引擎的工具集 | [SAFE](https://agentskillshub.top/skill/s87343472/backlink-pilot/) |
+| [flaqai/backlink_skills](https://github.com/flaqai/backlink_skills) | 867 | 提交网址到免费网站的技能，帮助网站获取更多流量和反向链接。 | [SAFE](https://agentskillshub.top/skill/flaqai/backlink_skills/) |
+| [s87343472/backlink-pilot](https://github.com/s87343472/backlink-pilot) | 427 | 独立开发者自动提交产品到目录网站、精选列表和搜索引擎的工具集 | [SAFE](https://agentskillshub.top/skill/s87343472/backlink-pilot/) |
 | [Bomx/qwoted-seo-backlinks-skill](https://github.com/Bomx/qwoted-seo-backlinks-skill) | 151 | Claude Code skill：通过AI代理在Qwoted寻找PR和反向链接机会，构建带来源的统计页面并向记者推介。 | [SAFE](https://agentskillshub.top/skill/Bomx/qwoted-seo-backlinks-skill/) |
 | [zhuyansen/backlink-guard](https://github.com/zhuyansen/backlink-guard) | 69 | 提交前检查链接来源，核实收录信息，审计反向链接中的垃圾链接模式。CLI 和 agent skill。 | [SAFE](https://agentskillshub.top/skill/zhuyansen/backlink-guard/) |
+| [m4mansoor/seo-agent](https://github.com/m4mansoor/seo-agent) | 5 | 开源SEO外链agent。MCP让Claude、Cursor、Codex或ChatGPT规划并建已验外链。WordPress、Shopify、桌面应用开发中。 | [SAFE](https://agentskillshub.top/skill/m4mansoor/seo-agent/) |
 | [zhuyansen/backlink-spam-list](https://github.com/zhuyansen/backlink-spam-list) | 0 | 共享建立或出售垃圾外链的网站列表，每项附有可核查的证据 | [*待评级*](https://agentskillshub.top/skill/zhuyansen/backlink-spam-list/) |
 
 <a id="type-marketing"></a>
@@ -348,8 +354,8 @@
 
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
-| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 58.5k | Claude Code 和 AI agents 的营销 skills，涵盖 CRO、文案、SEO、分析和增长工程。 | [SAFE](https://agentskillshub.top/skill/coreyhaines31/marketingskills/) |
-| [irinabuht12-oss/marketing-skills](https://github.com/irinabuht12-oss/marketing-skills) | 6.8k | Claude 营销 skill：49 个，支持 Claude Code、claude.ai，涵盖 Google Ads、Meta Ads、SEO、AI vis… | [SAFE](https://agentskillshub.top/skill/irinabuht12-oss/marketing-skills/) |
+| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 58.7k | Claude Code 和 AI agents 的营销 skills，涵盖 CRO、文案、SEO、分析和增长工程。 | [SAFE](https://agentskillshub.top/skill/coreyhaines31/marketingskills/) |
+| [irinabuht12-oss/marketing-skills](https://github.com/irinabuht12-oss/marketing-skills) | 6.9k | Claude 营销 skill：49 个，支持 Claude Code、claude.ai，涵盖 Google Ads、Meta Ads、SEO、AI vis… | [SAFE](https://agentskillshub.top/skill/irinabuht12-oss/marketing-skills/) |
 | [nowork-studio/notfair-plugin](https://github.com/nowork-studio/notfair-plugin) | 4.1k | 开源的SEO、GEO和营销技能，供AI agent使用。 | [SAFE](https://agentskillshub.top/skill/nowork-studio/notfair-plugin/) |
 | [nowork-studio/notfair-plugin](https://github.com/nowork-studio/notfair-plugin) | 4.1k | 开源的SEO、GEO和营销技能，供AI agent使用。 | [SAFE](https://agentskillshub.top/skill/nowork-studio/notfair-plugin/) |
 | [aaron-he-zhu/aaron-marketing-skills](https://github.com/aaron-he-zhu/aaron-marketing-skills) | 3.1k | 作为AI营销人员的120项技能，涵盖7个领域和8个审核环节。 | [SAFE](https://agentskillshub.top/skill/aaron-he-zhu/aaron-marketing-skills/) |
@@ -361,29 +367,29 @@
 | [LeoYeAI/openclaw-marketing-skills](https://github.com/LeoYeAI/openclaw-marketing-skills) | 1.1k | 33 个经过实战检验的 OpenClaw 代理营销技能，由 MyClaw.ai 提供支持 | [SAFE](https://agentskillshub.top/skill/LeoYeAI/openclaw-marketing-skills/) |
 | [rampstackco/claude-skills](https://github.com/rampstackco/claude-skills) | 1.0k | 不依赖技术栈的 Claude Skills，覆盖网站全生命周期：品牌、设计、内容、SEO、开发、运维、增长和研究。构建、发布、审计、优化。 | [SAFE](https://agentskillshub.top/skill/rampstackco/claude-skills/) |
 | [indranilbanerjee/digital-marketing-pro](https://github.com/indranilbanerjee/digital-marketing-pro) | 925 | 开源AI营销操作系统，支持策略、SEO、AEO/GEO、付费媒体、内容、CRM和分析，基于品牌背景、人类审核和可验证输出。 | [SAFE](https://agentskillshub.top/skill/indranilbanerjee/digital-marketing-pro/) |
-| [OpenClaudia/openclaudia-skills](https://github.com/OpenClaudia/openclaudia-skills) | 728 | 77 个开源营销 skill，适用于 Claude Code、Codex 和其他 AI 编程 agent，涵盖 SEO、内容、邮件、广告、分析和增长。 | [SAFE](https://agentskillshub.top/skill/OpenClaudia/openclaudia-skills/) |
-| [Varnan-Tech/opendirectory](https://github.com/Varnan-Tech/opendirectory) | 691 | 为讨厌营销的创始人打造的 AI Agent 技能 | [SAFE](https://agentskillshub.top/skill/Varnan-Tech/opendirectory/) |
-| [unifapi-agent/agents](https://github.com/unifapi-agent/agents) | 609 | 开源营销代理，支持Claude、ChatGPT、Codex等，提供SEO审核、本地SEO、KOL定价、社交监听和竞争情报。 | [SAFE](https://agentskillshub.top/skill/unifapi-agent/agents/) |
+| [OpenClaudia/openclaudia-skills](https://github.com/OpenClaudia/openclaudia-skills) | 730 | 77 个开源营销 skill，适用于 Claude Code、Codex 和其他 AI 编程 agent，涵盖 SEO、内容、邮件、广告、分析和增长。 | [SAFE](https://agentskillshub.top/skill/OpenClaudia/openclaudia-skills/) |
+| [Varnan-Tech/opendirectory](https://github.com/Varnan-Tech/opendirectory) | 693 | 为讨厌营销的创始人打造的 AI Agent 技能 | [SAFE](https://agentskillshub.top/skill/Varnan-Tech/opendirectory/) |
+| [unifapi-agent/agents](https://github.com/unifapi-agent/agents) | 610 | 开源营销代理，支持Claude、ChatGPT、Codex等，提供SEO审核、本地SEO、KOL定价、社交监听和竞争情报。 | [SAFE](https://agentskillshub.top/skill/unifapi-agent/agents/) |
 | [davidpc007/openclaw-marketing-skills](https://github.com/davidpc007/openclaw-marketing-skills) | 176 | openclaw 提供涵盖CRO、文案、SEO、付费广告、增长和GTM的38个agent技能 | [SAFE](https://agentskillshub.top/skill/davidpc007/openclaw-marketing-skills/) |
-| [JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) | 125 | 面向SEO、AI搜索可见性、转化文案、营销策略和业务运营的开源AI skill；提供Claude Code和Codex可复用工作流，以及代码审查、应用交付和创… | [SAFE](https://agentskillshub.top/skill/JasonColapietro/suede-creator-skills/) |
-| [marcosmodly/marketing-skill](https://github.com/marcosmodly/marketing-skill) | 119 | Claude Code 插件含12个营销技能，支持竞品调研、内容日历、SEO简报、广告文案、冷启动、短视频包和社区发布，支持通过 webhook 或平台 AP… | [SAFE](https://agentskillshub.top/skill/marcosmodly/marketing-skill/) |
-| [kursku/skills](https://github.com/kursku/skills) | 115 | 包含2300多个Claude AI技能，涵盖市场营销、销售、SEO和开发等领域 | [SAFE](https://agentskillshub.top/skill/kursku/skills/) |
-| [cognyai/claude-code-marketing-skills](https://github.com/cognyai/claude-code-marketing-skills) | 113 | Claude Code 的营销 skills：SEO 审计与实施、广告分析和优化。免费 skills 无需账号；$9/月获取实时 Search Console… | [SAFE](https://agentskillshub.top/skill/cognyai/claude-code-marketing-skills/) |
-| [hyperfx-ai/marketing-skills](https://github.com/hyperfx-ai/marketing-skills) | 110 | AI 代理的营销技能，包括付费广告、社交媒体、SEO、竞品调研、创意生成、邮件和分析，由 Hyper MCP 提供支持。 | [SAFE](https://agentskillshub.top/skill/hyperfx-ai/marketing-skills/) |
+| [marcosmodly/marketing-skill](https://github.com/marcosmodly/marketing-skill) | 125 | Claude Code 插件含12个营销技能，支持竞品调研、内容日历、SEO简报、广告文案、冷启动、短视频包和社区发布，支持通过 webhook 或平台 AP… | [SAFE](https://agentskillshub.top/skill/marcosmodly/marketing-skill/) |
+| [JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) | 121 | 面向SEO、AI搜索可见性、转化文案、营销策略和业务运营的开源AI skill；提供Claude Code和Codex可复用工作流，以及代码审查、应用交付和创… | [SAFE](https://agentskillshub.top/skill/JasonColapietro/suede-creator-skills/) |
+| [kursku/skills](https://github.com/kursku/skills) | 116 | 包含2300多个Claude AI技能，涵盖市场营销、销售、SEO和开发等领域 | [SAFE](https://agentskillshub.top/skill/kursku/skills/) |
+| [cognyai/claude-code-marketing-skills](https://github.com/cognyai/claude-code-marketing-skills) | 114 | Claude Code 的营销 skills：SEO 审计与实施、广告分析和优化。免费 skills 无需账号；$9/月获取实时 Search Console… | [SAFE](https://agentskillshub.top/skill/cognyai/claude-code-marketing-skills/) |
+| [hyperfx-ai/marketing-skills](https://github.com/hyperfx-ai/marketing-skills) | 111 | AI 代理的营销技能，包括付费广告、社交媒体、SEO、竞品调研、创意生成、邮件和分析，由 Hyper MCP 提供支持。 | [SAFE](https://agentskillshub.top/skill/hyperfx-ai/marketing-skills/) |
 | [ScaleBrick/founder-marketing-skills](https://github.com/ScaleBrick/founder-marketing-skills) | 90 | 开源营销技能，包含关键词研究、增长策略、社交搜索审计和竞争分析。 | [SAFE](https://agentskillshub.top/skill/ScaleBrick/founder-marketing-skills/) |
 | [adityaarsharma/youtube-marketing-skills](https://github.com/adityaarsharma/youtube-marketing-skills) | 78 | 开源的 YouTube 增长工具包：21 个 AI 命令，不绑定特定 agent | [SAFE](https://agentskillshub.top/skill/adityaarsharma/youtube-marketing-skills/) |
-| [LeadMagic/gtm-skills](https://github.com/LeadMagic/gtm-skills) | 73 | GTM agent 技能，适用于 Claude Code、Codex 和 GitHub Copilot：销售、营销、SEO、RevOps、客户研究手册及模板 | [SAFE](https://agentskillshub.top/skill/LeadMagic/gtm-skills/) |
-| [superamped/ai-marketing-skills](https://github.com/superamped/ai-marketing-skills) | 73 | 面向 Claude Code、Cursor、Codex 等 coding agent 的开源 AI 营销 skills，支持 SEO、文案、竞品调研、广告活动… | [SAFE](https://agentskillshub.top/skill/superamped/ai-marketing-skills/) |
-| [cgallic/kai-cmo-harness](https://github.com/cgallic/kai-cmo-harness) | 63 | Claude Code 和 Codex 的开源营销工具，提供 SEO、内容、邮件、广告、发布、CRO 和 AI 搜索可见性 skills，由 Talk To… | [SAFE](https://agentskillshub.top/skill/cgallic/kai-cmo-harness/) |
+| [LeadMagic/gtm-skills](https://github.com/LeadMagic/gtm-skills) | 74 | GTM agent 技能，适用于 Claude Code、Codex 和 GitHub Copilot：销售、营销、SEO、RevOps、客户研究手册及模板 | [SAFE](https://agentskillshub.top/skill/LeadMagic/gtm-skills/) |
+| [superamped/ai-marketing-skills](https://github.com/superamped/ai-marketing-skills) | 74 | 面向 Claude Code、Cursor、Codex 等 coding agent 的开源 AI 营销 skills，支持 SEO、文案、竞品调研、广告活动… | [SAFE](https://agentskillshub.top/skill/superamped/ai-marketing-skills/) |
+| [cgallic/kai-cmo-harness](https://github.com/cgallic/kai-cmo-harness) | 64 | Claude Code 和 Codex 的开源营销工具，提供 SEO、内容、邮件、广告、发布、CRO 和 AI 搜索可见性 skills，由 Talk To… | [SAFE](https://agentskillshub.top/skill/cgallic/kai-cmo-harness/) |
 | [AgriciDaniel/marketing-skill-pack](https://github.com/AgriciDaniel/marketing-skill-pack) | 53 | 一键安装所有 AI Marketing Hub 工具：Claude SEO、Claude Blog、Skill Forge、WP MCP Ultimate | [SAFE](https://agentskillshub.top/skill/AgriciDaniel/marketing-skill-pack/) |
 | [smithjohn78390/smith--skills](https://github.com/smithjohn78390/smith--skills) | 49 | Claude Code和Codex技能：内容创作、客服、市场调研、SEO、Agent工作流、Grok X实时抓取与评审工具 | [SAFE](https://agentskillshub.top/skill/smithjohn78390/smith--skills/) |
 | [rediumvex/ai-marketing-claude](https://github.com/rediumvex/ai-marketing-claude) | 40 | Claude Code 的营销运营工具包，包含 12 个技能、5 个子代理和 Python 脚本，用于审计、CRO、SEO、文案、邮件、广告和客户报告。 | [SAFE](https://agentskillshub.top/skill/rediumvex/ai-marketing-claude/) |
-| [shalintripathi/saas-marketing-agents](https://github.com/shalintripathi/saas-marketing-agents) | 32 | Claude Code 的 AI 营销代理，涵盖 90 个代理和 19 个技能，支持 SEO、内容运营、付费媒体、社交监听、邮件、产品驱动增长、创始人主导市场… | [SAFE](https://agentskillshub.top/skill/shalintripathi/saas-marketing-agents/) |
+| [shalintripathi/saas-marketing-agents](https://github.com/shalintripathi/saas-marketing-agents) | 33 | Claude Code 的 AI 营销代理，涵盖 90 个代理和 19 个技能，支持 SEO、内容运营、付费媒体、社交监听、邮件、产品驱动增长、创始人主导市场… | [SAFE](https://agentskillshub.top/skill/shalintripathi/saas-marketing-agents/) |
 | [Gingiris/gingiris-skills](https://github.com/Gingiris/gingiris-skills) | 24 | Gingiris Growth Skills for Claude Code 包含 SEO/GEO 巡查、Jekyll 博客发布和 Product Hunt… | [SAFE](https://agentskillshub.top/skill/Gingiris/gingiris-skills/) |
 | [ekinciio/saas-growth-marketing-skills](https://github.com/ekinciio/saas-growth-marketing-skills) | 15 | Claude Code 技能合集，涵盖 ASO、GEO/SEO、CRO、PLG 漏斗、留存、定价、竞争情报等15项技能。 | [SAFE](https://agentskillshub.top/skill/ekinciio/saas-growth-marketing-skills/) |
 | [LuCheremisina/marketing-skills](https://github.com/LuCheremisina/marketing-skills) | 11 | 用于研究、SEO/GEO、Yandex广告分析和专业内容的AI营销技能。27个营销工作流+14个可选工程技能。 | [SAFE](https://agentskillshub.top/skill/LuCheremisina/marketing-skills/) |
 | [twominutereports/marketing-skills](https://github.com/twominutereports/marketing-skills) | 10 | Claude Marketing Skills 用于 SEO、PPC 和电商报告、分析及自动化，通过 MCP 实现。 | [SAFE](https://agentskillshub.top/skill/twominutereports/marketing-skills/) |
-| [rdoser13/free-claude-skills](https://github.com/rdoser13/free-claude-skills) | 8 | Claude Code 的 15 个 Claude 营销 skill：SEO、关键词研究、CRO、内容策略、落地页、短视频和反低质内容质量门槛。 | [SAFE](https://agentskillshub.top/skill/rdoser13/free-claude-skills/) |
+| [rdoser13/free-claude-skills](https://github.com/rdoser13/free-claude-skills) | 9 | Claude Code 的 15 个 Claude 营销 skill：SEO、关键词研究、CRO、内容策略、落地页、短视频和反低质内容质量门槛。 | [SAFE](https://agentskillshub.top/skill/rdoser13/free-claude-skills/) |
 | [unempyd/revenueos](https://github.com/unempyd/revenueos) | 8 | 连接业务，RevenueOS 发现机会，执行收入相关工作并进行效果测量，自托管，MIT 许可。 | [SAFE](https://agentskillshub.top/skill/unempyd/revenueos/) |
 | [tns-research/fog-agents](https://github.com/tns-research/fog-agents) | 6 | 面向早期创业者：市场信号、首批用户、SEO、落地页、外联。支持 Claude Code、Cursor、Codex CLI、Gemini CLI。 | [SAFE](https://agentskillshub.top/skill/tns-research/fog-agents/) |
 | [ranjeeetvimal/growth-skills](https://github.com/ranjeeetvimal/growth-skills) | 5 | 开源 agent 技能，支持创始人驱动增长，涵盖 PLG 策略、SEO 和社交媒体增长，兼容 Claude Code、Cursor、Gemini CLI 及任… | [SAFE](https://agentskillshub.top/skill/ranjeeetvimal/growth-skills/) |
@@ -402,4 +408,4 @@
 
 ---
 
-机器可读版本:[`data/skills.json`](data/skills.json)。生成于 2026-11-04。
+机器可读版本:[`data/skills.json`](data/skills.json)。生成于 2026-11-05。
