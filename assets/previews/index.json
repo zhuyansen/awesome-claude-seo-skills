@@ -9,6 +9,16 @@
   "file": "AgriciDaniel__jev-seo.jpg",
   "still": "AgriciDaniel__jev-seo.jpg"
  },
+ "Canonry/agent-readiness": {
+  "repo": "Canonry/agent-readiness",
+  "url": "https://raw.githubusercontent.com/Canonry/canonry/main/docs/images/readme/site-health.png",
+  "alt": "Canonry Site Health: a map of 205 crawled pages and the links between them, besi",
+  "score": 1.45,
+  "type": "image/png",
+  "bytes": 217415,
+  "file": "Canonry__agent-readiness.jpg",
+  "still": "Canonry__agent-readiness.jpg"
+ },
  "Fangx-AI/geo-doctor": {
   "repo": "Fangx-AI/geo-doctor",
   "url": "https://raw.githubusercontent.com/Fangx-AI/geo-doctor/HEAD/assets/geo-doctor-demo.gif",
