@@ -49,6 +49,16 @@
   "file": "NicoSKOOL__ai-ranking-scroll-seo.jpg",
   "still": "NicoSKOOL__ai-ranking-scroll-seo.jpg"
  },
+ "XuHo-IT/Content-Agent-Kit": {
+  "repo": "XuHo-IT/Content-Agent-Kit",
+  "url": "https://raw.githubusercontent.com/XuHo-IT/Content-Agent-Kit/HEAD/examples/gallery/gallery-opus.jpg",
+  "alt": "Opus 5.5 Style Recipes",
+  "score": 1.6,
+  "type": "image/jpeg",
+  "bytes": 80316,
+  "file": "XuHo-IT__Content-Agent-Kit.jpg",
+  "still": "XuHo-IT__Content-Agent-Kit.jpg"
+ },
  "avalonreset/legends-dataforseo": {
   "repo": "avalonreset/legends-dataforseo",
   "url": "https://raw.githubusercontent.com/avalonreset/legends-dataforseo/HEAD/assets/banner.webp",
@@ -109,6 +119,16 @@
   "file": "m4mansoor__seo-agent.jpg",
   "still": "m4mansoor__seo-agent.jpg"
  },
+ "sayiyla/sayiyla-seo-ajan": {
+  "repo": "sayiyla/sayiyla-seo-ajan",
+  "url": "https://raw.githubusercontent.com/sayiyla/sayiyla-seo-ajan/HEAD/docs/gorseller/metrikler.png",
+  "alt": "sayiyla-seo-ajan hangi metriklere bakıyor: web sayfası, sosyal açıklama, derlenm",
+  "score": 0.0,
+  "type": "image/png",
+  "bytes": 471231,
+  "file": "sayiyla__sayiyla-seo-ajan.jpg",
+  "still": "sayiyla__sayiyla-seo-ajan.jpg"
+ },
  "tns-research/fog-agents": {
   "repo": "tns-research/fog-agents",
   "url": "https://raw.githubusercontent.com/tns-research/fog-agents/HEAD/docs/hero.png",
@@ -118,6 +138,16 @@
   "bytes": 1953014,
   "file": "tns-research__fog-agents.jpg",
   "still": "tns-research__fog-agents.jpg"
+ },
+ "tymoshenko-dmytro/claude-marketing-skills": {
+  "repo": "tymoshenko-dmytro/claude-marketing-skills",
+  "url": "https://raw.githubusercontent.com/tymoshenko-dmytro/claude-marketing-skills/HEAD/docs/images/cover.png",
+  "alt": "Claude Marketing Skills: agents with job titles, each a Claude Code skill",
+  "score": -2.65,
+  "type": "image/png",
+  "bytes": 1089623,
+  "file": "tymoshenko-dmytro__claude-marketing-skills.jpg",
+  "still": "tymoshenko-dmytro__claude-marketing-skills.jpg"
  },
  "wojcikdominik/openspider": {
   "repo": "wojcikdominik/openspider",
