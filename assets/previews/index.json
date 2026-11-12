@@ -9,6 +9,16 @@
   "file": "AgriciDaniel__jev-seo.jpg",
   "still": "AgriciDaniel__jev-seo.jpg"
  },
+ "Anas660/claude-seo-desk": {
+  "repo": "Anas660/claude-seo-desk",
+  "url": "https://raw.githubusercontent.com/Anas660/claude-seo-desk/main/docs/assets/hero.png",
+  "alt": "SEO Desk: is your site ready for AI search? SEO, AEO and GEO scores, AI crawler ",
+  "score": -2.5,
+  "type": "image/png",
+  "bytes": 557408,
+  "file": "Anas660__claude-seo-desk.jpg",
+  "still": "Anas660__claude-seo-desk.jpg"
+ },
  "Canonry/agent-readiness": {
   "repo": "Canonry/agent-readiness",
   "url": "https://raw.githubusercontent.com/Canonry/canonry/main/docs/images/readme/site-health.png",
@@ -79,6 +89,16 @@
   "file": "avalonreset__legends-geogrid.jpg",
   "still": "avalonreset__legends-geogrid.jpg"
  },
+ "cihantopac/searvex": {
+  "repo": "cihantopac/searvex",
+  "url": "https://raw.githubusercontent.com/cihantopac/searvex/main/docs/assets/issues-light.webp",
+  "alt": "Issues grouped by root cause, with selection checkboxes",
+  "score": -0.35,
+  "type": "image/webp",
+  "bytes": 108202,
+  "file": "cihantopac__searvex.jpg",
+  "still": "cihantopac__searvex.jpg"
+ },
  "duckduckdeploy/openseo": {
   "repo": "duckduckdeploy/openseo",
   "url": "https://raw.githubusercontent.com/duckduckdeploy/openseo/HEAD/apps/web/public/screens/serp-checker-table.webp",
@@ -148,6 +168,16 @@
   "bytes": 1089623,
   "file": "tymoshenko-dmytro__claude-marketing-skills.jpg",
   "still": "tymoshenko-dmytro__claude-marketing-skills.jpg"
+ },
+ "vamsireddy4/search-os": {
+  "repo": "vamsireddy4/search-os",
+  "url": "https://raw.githubusercontent.com/vamsireddy4/search-os/HEAD/assets/demo-files.png",
+  "alt": "SearchOS listing its reference files, scripts and built-in rules inside Claude C",
+  "score": 1.55,
+  "type": "image/png",
+  "bytes": 636224,
+  "file": "vamsireddy4__search-os.jpg",
+  "still": "vamsireddy4__search-os.jpg"
  },
  "wojcikdominik/openspider": {
   "repo": "wojcikdominik/openspider",
