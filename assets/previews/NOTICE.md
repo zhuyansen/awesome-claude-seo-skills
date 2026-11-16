@@ -6,6 +6,7 @@ authors and stay under the license of the project they come from. To have one re
 
 | File | Project | License | Original |
 |---|---|---|---|
+| `Advance-Labs__aeo-toolkit.jpg` | [Advance-Labs/aeo-toolkit](https://github.com/Advance-Labs/aeo-toolkit) | Apache-2.0 | [source](https://raw.githubusercontent.com/Advance-Labs/aeo-toolkit/HEAD/brand/aeo-toolkit-mark-256.png) |
 | `AgriciDaniel__jev-seo.jpg` | [AgriciDaniel/jev-seo](https://github.com/AgriciDaniel/jev-seo) | MIT | [source](https://raw.githubusercontent.com/AgriciDaniel/jev-seo/HEAD/docs/assets/preview-jev.jpg) |
 | `Anas660__claude-seo-desk.jpg` | [Anas660/claude-seo-desk](https://github.com/Anas660/claude-seo-desk) | MIT | [source](https://raw.githubusercontent.com/Anas660/claude-seo-desk/main/docs/assets/hero.png) |
 | `avalonreset__legends-dataforseo.jpg` | [avalonreset/legends-dataforseo](https://github.com/avalonreset/legends-dataforseo) | MIT | [source](https://raw.githubusercontent.com/avalonreset/legends-dataforseo/HEAD/assets/banner.webp) |
