@@ -7,6 +7,7 @@ authors and stay under the license of the project they come from. To have one re
 | File | Project | License | Original |
 |---|---|---|---|
 | `Advance-Labs__aeo-toolkit.jpg` | [Advance-Labs/aeo-toolkit](https://github.com/Advance-Labs/aeo-toolkit) | Apache-2.0 | [source](https://raw.githubusercontent.com/Advance-Labs/aeo-toolkit/HEAD/brand/aeo-toolkit-mark-256.png) |
+| `AgriciDaniel__dataforseo-agent.jpg` | [AgriciDaniel/dataforseo-agent](https://github.com/AgriciDaniel/dataforseo-agent) | MIT | [source](https://raw.githubusercontent.com/AgriciDaniel/dataforseo-agent/HEAD/docs/screenshots/serp.png) |
 | `AgriciDaniel__jev-seo.jpg` | [AgriciDaniel/jev-seo](https://github.com/AgriciDaniel/jev-seo) | MIT | [source](https://raw.githubusercontent.com/AgriciDaniel/jev-seo/HEAD/docs/assets/preview-jev.jpg) |
 | `Anas660__claude-seo-desk.jpg` | [Anas660/claude-seo-desk](https://github.com/Anas660/claude-seo-desk) | MIT | [source](https://raw.githubusercontent.com/Anas660/claude-seo-desk/main/docs/assets/hero.png) |
 | `avalonreset__legends-dataforseo.jpg` | [avalonreset/legends-dataforseo](https://github.com/avalonreset/legends-dataforseo) | MIT | [source](https://raw.githubusercontent.com/avalonreset/legends-dataforseo/HEAD/assets/banner.webp) |
@@ -22,6 +23,7 @@ authors and stay under the license of the project they come from. To have one re
 | `micaelgomestavares__aeo-geo-bestpractices.jpg` | [micaelgomestavares/aeo-geo-bestpractices](https://github.com/micaelgomestavares/aeo-geo-bestpractices) | MIT | [source](https://raw.githubusercontent.com/micaelgomestavares/aeo-geo-bestpractices/HEAD/assets/banner.png) |
 | `NicoSKOOL__ai-ranking-scroll-seo.jpg` | [NicoSKOOL/ai-ranking-scroll-seo](https://github.com/NicoSKOOL/ai-ranking-scroll-seo) | MIT | [source](https://raw.githubusercontent.com/NicoSKOOL/ai-ranking-scroll-seo/HEAD/media/arkansas-flight.webp) |
 | `sayiyla__sayiyla-seo-ajan.jpg` | [sayiyla/sayiyla-seo-ajan](https://github.com/sayiyla/sayiyla-seo-ajan) | MIT | [source](https://raw.githubusercontent.com/sayiyla/sayiyla-seo-ajan/HEAD/docs/gorseller/metrikler.png) |
+| `tipsai__product-seo.jpg` | [tipsai/product-seo](https://github.com/tipsai/product-seo) | MIT | [source](https://raw.githubusercontent.com/tipsai/product-seo/HEAD/docs/banner.png) |
 | `tymoshenko-dmytro__claude-marketing-skills.jpg` | [tymoshenko-dmytro/claude-marketing-skills](https://github.com/tymoshenko-dmytro/claude-marketing-skills) | MIT | [source](https://raw.githubusercontent.com/tymoshenko-dmytro/claude-marketing-skills/HEAD/docs/images/cover.png) |
 | `vamsireddy4__search-os.jpg` | [vamsireddy4/search-os](https://github.com/vamsireddy4/search-os) | MIT | [source](https://raw.githubusercontent.com/vamsireddy4/search-os/HEAD/assets/demo-files.png) |
 | `wojcikdominik__openspider.jpg` | [wojcikdominik/openspider](https://github.com/wojcikdominik/openspider) | Apache-2.0 | [source](https://raw.githubusercontent.com/wojcikdominik/openspider/HEAD/assets/screenshots/urls-light.jpg) |

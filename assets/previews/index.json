@@ -9,6 +9,16 @@
   "file": "Advance-Labs__aeo-toolkit.jpg",
   "still": "Advance-Labs__aeo-toolkit.jpg"
  },
+ "AgriciDaniel/dataforseo-agent": {
+  "repo": "AgriciDaniel/dataforseo-agent",
+  "url": "https://raw.githubusercontent.com/AgriciDaniel/dataforseo-agent/HEAD/docs/screenshots/serp.png",
+  "alt": "Top 10 Google results for best crm software in the US, as a table of rank, domai",
+  "score": 1.6,
+  "type": "image/png",
+  "bytes": 189342,
+  "file": "AgriciDaniel__dataforseo-agent.jpg",
+  "still": "AgriciDaniel__dataforseo-agent.jpg"
+ },
  "AgriciDaniel/jev-seo": {
   "repo": "AgriciDaniel/jev-seo",
   "url": "https://raw.githubusercontent.com/AgriciDaniel/jev-seo/HEAD/docs/assets/preview-jev.jpg",
@@ -168,6 +178,16 @@
   "bytes": 471231,
   "file": "sayiyla__sayiyla-seo-ajan.jpg",
   "still": "sayiyla__sayiyla-seo-ajan.jpg"
+ },
+ "tipsai/product-seo": {
+  "repo": "tipsai/product-seo",
+  "url": "https://raw.githubusercontent.com/tipsai/product-seo/HEAD/docs/banner.png",
+  "alt": "product-seo",
+  "score": -2.5,
+  "type": "image/png",
+  "bytes": 374000,
+  "file": "tipsai__product-seo.jpg",
+  "still": "tipsai__product-seo.jpg"
  },
  "tymoshenko-dmytro/claude-marketing-skills": {
   "repo": "tymoshenko-dmytro/claude-marketing-skills",
