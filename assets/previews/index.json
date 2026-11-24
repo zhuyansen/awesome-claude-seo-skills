@@ -59,6 +59,16 @@
   "file": "Fangx-AI__geo-doctor.gif",
   "still": "Fangx-AI__geo-doctor.jpg"
  },
+ "GroMarketing/keyword-planner-mcp": {
+  "repo": "GroMarketing/keyword-planner-mcp",
+  "url": "https://raw.githubusercontent.com/GroMarketing/keyword-planner-mcp/main/.github/social-preview.png",
+  "alt": "keyword-planner-mcp: Google Keyword Planner MCP server and CLI",
+  "score": 2.0,
+  "type": "image/png",
+  "bytes": 100303,
+  "file": "GroMarketing__keyword-planner-mcp.jpg",
+  "still": "GroMarketing__keyword-planner-mcp.jpg"
+ },
  "LuCheremisina/marketing-skills": {
   "repo": "LuCheremisina/marketing-skills",
   "url": "https://raw.githubusercontent.com/LuCheremisina/marketing-skills/HEAD/assets/social-preview.png",
@@ -159,6 +169,16 @@
   "file": "jayanti-prajapati__research-first-writer.jpg",
   "still": "jayanti-prajapati__research-first-writer.jpg"
  },
+ "koihq/koi": {
+  "repo": "koihq/koi",
+  "url": "https://raw.githubusercontent.com/koihq/koi/HEAD/ui/src/assets/koi-mark.png",
+  "alt": "Koi logo",
+  "score": 0.0,
+  "type": "image/png",
+  "bytes": 369303,
+  "file": "koihq__koi.jpg",
+  "still": "koihq__koi.jpg"
+ },
  "m4mansoor/seo-agent": {
   "repo": "m4mansoor/seo-agent",
   "url": "https://raw.githubusercontent.com/m4mansoor/seo-agent/main/docs/assets/img/session.png",
@@ -178,6 +198,16 @@
   "bytes": 712264,
   "file": "micaelgomestavares__aeo-geo-bestpractices.jpg",
   "still": "micaelgomestavares__aeo-geo-bestpractices.jpg"
+ },
+ "omerbatutandogan/seekwide": {
+  "repo": "omerbatutandogan/seekwide",
+  "url": "https://raw.githubusercontent.com/omerbatutandogan/seekwide/HEAD/docs/images/report-overview.png",
+  "alt": "The top of a Seekwide report for a fictional café site: the logo and name of the",
+  "score": -0.6,
+  "type": "image/png",
+  "bytes": 261446,
+  "file": "omerbatutandogan__seekwide.jpg",
+  "still": "omerbatutandogan__seekwide.jpg"
  },
  "sayiyla/sayiyla-seo-ajan": {
   "repo": "sayiyla/sayiyla-seo-ajan",
